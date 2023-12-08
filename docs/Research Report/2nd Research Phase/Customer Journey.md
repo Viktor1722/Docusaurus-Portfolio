@@ -13,9 +13,9 @@ Choosing this research method was deliberate, aimed at deepening my understandin
 What impact Campaign Designer is going to have on the industry?
 
 ### Activities 
-<p><strong>Industry Analysis:</strong> Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.</p>
+**Industry Analysis:** Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.
 
-<strong>Competitor Evaluation:</strong> Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
+**Competitor Evaluation:** Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
 
 ## Findings
 This customer journey was a visual story of a user's experience with the tool, showing me their potential actions and thoughts at each point in the process. The clues I gathered from this map were of great value. It turns out, users would really appreciate being able to generate voice over scripts with Ai, since it would give them a boost in productivity. This means they can focus more on the actual marketing campaigns rather than getting bogged down in the painful process of hiring a voice actor and a studio for recording the audio script. Moreover, the voice over generator will save time and money to the users. Another key finding was the freelance individual are going to benefit even more from this tool since campaign cost and time are beneficial for their development 

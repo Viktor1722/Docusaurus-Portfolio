@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/1st Research Phase/Customer Journey",
+  "title": "Customer Journey",
+  "description": "Introduction",
+  "source": "@site/docs/Research Report/1st Research Phase/Customer Journey.md",
+  "sourceDirName": "Research Report/1st Research Phase",
+  "slug": "/Research Report/1st Research Phase/Customer Journey",
+  "permalink": "/docs/Research Report/1st Research Phase/Customer Journey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/1st Research Phase/Customer Journey.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research framing",
+    "permalink": "/docs/Research Report/1st Research Phase/Research framing"
+  },
+  "next": {
+    "title": "Persona",
+    "permalink": "/docs/Research Report/1st Research Phase/Persona"
+  }
+}

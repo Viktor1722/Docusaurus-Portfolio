@@ -13,9 +13,9 @@ I purposefully chose this research method in order to gain a deeper understandin
 What impact Template Designer is going to have on the industry?
 
 ### Activities 
-<p><strong>Industry Analysis:</strong> Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.</p>
+**Industry Analysis:** Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.
 
-<strong>Competitor Evaluation:</strong> Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
+**Competitor Evaluation:** Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
 
 ## Findings
 With the help of this customer journey mapping, users' interactions with the tool were visually stated, offering insights into their potential actions and thoughts at each turn. I learned plenty from this journey, and it was really valuable. It became evident that users would be immensely grateful for the ability to use AI to create templates for their marketing campaigns, greatly increasing their productivity. This implies a change in emphasis from the laborious process of designing templates to the essential elements of creating a marketing campaign plan. The template designer tool is especially helpful for freelancers who prioritise efficiency in campaign development, as it promises to save costs in addition to time.

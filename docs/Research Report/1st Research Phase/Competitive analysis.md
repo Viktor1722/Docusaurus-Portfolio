@@ -20,11 +20,11 @@ Are there similar products on the market?
 
 Which AI models would be suitable for the needs of the Template Designer?
 ### Activities 
-<p><strong>Research AI Models:</strong> Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.</p>
+Research AI Models: Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.
 
-<p><strong>Market Research:</strong> Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.</p>
+Market Research: Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.
 
-<p><strong>Feature Analysis:</strong> Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.</p>
+Feature Analysis: Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
 
 
@@ -33,79 +33,76 @@ Which AI models would be suitable for the needs of the Template Designer?
 
 1. ## Dall-E2
 
-    <strong>Description:</strong>  Developed by OpenAI, DALL-E2 is a cutting-edge AI program capable of generating detailed images from textual descriptions.
+    **Description:**  Developed by OpenAI, DALL-E2 is a cutting-edge AI program capable of generating detailed images from textual descriptions.
 
-    <p><strong>Strengths:</strong> Exceptional creativity and versatility, able to produce highly detailed and imaginative images based on complex prompts.</p>
+    **Strengths:** Exceptional creativity and versatility, able to produce highly detailed and imaginative images based on complex prompts.
 
-     <p><strong>Weaknesses:</strong>  Limited public access to the full version, potential for misinterpretation of prompts, and ethical concerns regarding generated content.</p>
+     **Weaknesses:** Limited public access to the full version, potential for misinterpretation of prompts, and ethical concerns regarding generated content.
 
-
+     OpenAI. DALL-E 2. https://labs.openai.com/
 
 2. ## Stable Diffusion
 
-    <strong>Description:</strong> Stable Diffusion is an AI model designed for text-to-image generation, known for its efficiency and effectiveness in creating high-quality images.
+    **Description:** Stable Diffusion is an AI model designed for text-to-image generation, known for its efficiency and effectiveness in creating high-quality images.
 
-    <p><strong>Strengths:</strong> Efficient processing, producing high-quality images quickly. It's also known for its ability to handle a broad range of prompts effectively.
-    </p>
+    **Strengths:** Efficient processing, producing high-quality images quickly. It's also known for its ability to handle a broad range of prompts effectively.
+    
 
-     <p><strong>Weaknesses:</strong> As with many AI models, there can be issues with the accuracy of representation and potential ethical concerns around the use of generated images.</p>
+     **Weaknesses:** As with many AI models, there can be issues with the accuracy of representation and potential ethical concerns around the use of generated images.
 
-
+     Stability Ai. Stable Diffusion https://stablediffusionweb.com/
 
 3. ## Google DeepDream
 
-    <strong>Description:</strong> A program created by Google that uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia.
+    **Description:** A program created by Google that uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia.
 
-    <p><strong>Strengths:</strong> Unique artistic style, creating surreal and dream-like images that are distinct from other models.
-    </p>
+    **Strengths:** Unique artistic style, creating surreal and dream-like images that are distinct from other models.
+    
 
-     <p><strong>Weaknesses:</strong>Less control over the output compared to other models, and the results can be more abstract, which might not be suitable for all purposes.</p>
+     **Weaknesses:**** Less control over the output compared to other models, and the results can be more abstract, which might not be suitable for all purposes.
 
-
+     Google. DeepDream https://deepdreamgenerator.com/
 
 4. ## RunwayML
 
-     <strong>Description:</strong> A collaborative web-based tool that offers various machine learning models, including text-to-image capabilities.
+     **Description:** A collaborative web-based tool that offers various machine learning models, including text-to-image capabilities.
 
-     <p><strong>Strengths:</strong> User-friendly interface, suitable for users without deep technical knowledge. Offers a range of models for different styles and applications.</p>
+     **Strengths:** User-friendly interface, suitable for users without deep technical knowledge. Offers a range of models for different styles and applications.
 
-     <p><strong>Weaknesses:</strong> Limited by the models available on the platform, and the quality of outputs can vary depending on the chosen model.</p>
+     **Weaknesses:** Limited by the models available on the platform, and the quality of outputs can vary depending on the chosen model.
 
-
-
+     RunwayML. RunwayML. https://runwayml.com/
 
 5. ## MidJourney
 
-     <strong>Description:</strong> MidJourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+     **Description:** MidJourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
-     <p><strong>Strengths:</strong>  Known for its unique artistic style, MidJourney excels in creating images that are both abstract and rich in detail. It's particularly strong in generating art-like images and conceptual visualizations.
-     </p>
+     **Strengths:**  Known for its unique artistic style, MidJourney excels in creating images that are both abstract and rich in detail. It's particularly strong in generating art-like images and conceptual visualizations.
+     
+     **Weaknesses:** Like many AI art tools, it can sometimes produce unpredictable results, and there might be a learning curve to effectively use the platform.Also it doesnt have API so it can't be used outside of its interface
 
-     <p><strong>Weaknesses:</strong> Like many AI art tools, it can sometimes produce unpredictable results, and there might be a learning curve to effectively use the platform.Also it doesnt have API so it can't be used outside of its interface</p>
-
-
+     MidJourney. MidJourney. https://www.midjourney.com/home?callbackUrl=%2Fexplore
 
 6. ## Artbreeder
 
-     <strong>Description:</strong> Artbreeder uses AI to combine and morph images, allowing users to create hybrids and variations of existing images or generated art.
+     **Description:** Artbreeder uses AI to combine and morph images, allowing users to create hybrids and variations of existing images or generated art.
 
-     <p><strong>Strengths:</strong>  Great for collaborative work and exploration of different artistic possibilities. Offers a unique approach to image blending and modification.
-     </p>
+     **Strengths:**  Great for collaborative work and exploration of different artistic possibilities. Offers a unique approach to image blending and modification.
+     
 
-     <p><strong>Weaknesses:</strong> Less control over precise outcomes compared to direct text-to-image models. The user interface can be non-intuitive for new users.</p>
+     **Weaknesses:** Less control over precise outcomes compared to direct text-to-image models. The user interface can be non-intuitive for new users.
 
-
-
+     Artbreeder.Artbreeder. https://www.artbreeder.com/
 
 7. ## DeepArt
 
-     <strong>Description:</strong> Focused on turning photos into artworks based on various famous styles, DeepArt uses a neural network to reimagine images in the style of famous artists.
+     **Description:** Focused on turning photos into artworks based on various famous styles, DeepArt uses a neural network to reimagine images in the style of famous artists.
 
-     <p><strong>Strengths:</strong>  Excellent for creating artwork inspired by historical art styles. User-friendly and effective for specific artistic transformations.
-     </p>
-     <p><strong>Weaknesses:</strong> Limited to style transfer, it doesn't create images from scratch based on textual descriptions.</p>
+     **Strengths:**  Excellent for creating artwork inspired by historical art styles. User-friendly and effective for specific artistic transformations.
+     
+     **Weaknesses:** Limited to style transfer, it doesn't create images from scratch based on textual descriptions.
 
-
+     DeepArt. DeepArt. https://deepai.org/art
 
 ## Conclusion
 

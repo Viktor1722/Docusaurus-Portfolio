@@ -18,13 +18,13 @@ Are there similar products on the market?
 Which AI models would be suitable for the needs of the Template Designer?
 ### Activities 
 
-<p><strong>Review Project Requirements:</strong> Examine the specific requirements of the Template Designer project to identify the key functionalities and tasks where AI can be most beneficial.</p>
+**Review Project Requirements:** Examine the specific requirements of the Template Designer project to identify the key functionalities and tasks where AI can be most beneficial.
 
-<p><strong>Research AI Models:</strong>Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.</p>
+**Research AI Models:** Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.
 
-<p><strong>Market Research:</strong> Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.</p>
+**Market Research:** Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.
 
-<strong>Feature Analysis:</strong> Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
+**Feature Analysis:** Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
 ## Findings 
 
@@ -43,13 +43,13 @@ To assess the models, creating an account was required, which I felt was somewha
 Testing ElevenLabs left me quite impressed with the voice quality, it was so clear and lifelike, almost like listening to an actual person. Each voice offered unique settings that, when altered, significantly changed how the text was pronounced, showcasing the model's versatility. Impressively, ElevenLabs excelled in pronouncing complex languages like Italian and my native Bulgarian, outperforming Play.ht in this aspect. Additionally, I experimented with voice cloning, specifically cloning Ice Cube's voice, and the results were surprisingly better than I had anticipated.
 
 ### Cost-Effectiveness
-<p>Play.ht: More budget-friendly, especially for large volume usage. Its unlimited plan is advantageous for extensive projects.</p>
-ElevenLabs: While offering high-quality outputs, it may be more expensive, particularly for large-scale use.  
+**Play.ht:** More budget-friendly, especially for large volume usage. Its unlimited plan is advantageous for extensive projects.
+**ElevenLabs:** While offering high-quality outputs, it may be more expensive, particularly for large-scale use.  
 
 ### Developer Experience and API Documentation 
-Play.ht: Provides comprehensive API documentation, making it easier for developers to integrate the service into applications. The API is well-documented, with clear instructions and support.
+**Play.ht:** Provides comprehensive API documentation, making it easier for developers to integrate the service into applications. The API is well-documented, with clear instructions and support.
 
-ElevenLabs: Also offers an API, but the documentation and developer support might not be as extensive as Play.ht. Suitable for projects where intricate voice quality is paramount, and the developer has experience in integrating similar APIs.
+**ElevenLabs:** Also offers an API, but the documentation and developer support might not be as extensive as Play.ht. Suitable for projects where intricate voice quality is paramount, and the developer has experience in integrating similar APIs.
 ## Conclusion 
 
 

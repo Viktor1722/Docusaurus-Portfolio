@@ -16,11 +16,11 @@ Are there similar products on the market?
 
 Which AI models would be suitable for the needs of the Template Designer?
 ### Activities 
-<p><strong>Research AI Models:</strong> Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.</p>
+Research AI Models: Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.
 
-<p><strong>Market Research:</strong> Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.</p>
+Market Research: Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.
 
-<p><strong>Feature Analysis:</strong> Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.</p>
+Feature Analysis: Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
 
 I selected this research approach to identify AI models or tools that align with my project's requirements and answer these two sub-research questions. Exploring this segment of AI technology through this method has been incredibly enlightening. It not only allowed me to gain a deeper understanding of various tools but also to experiment with them firsthand. This experience has enriched my perspective, providing me with practical knowledge about the usage of such tools. Importantly, it has offered me a clearer understanding of the characteristics that define an effective Text-to-Speech (TTS) AI model, which is invaluable for my assignment. Furthermore it gave me a great base for coming to a conclusion which two Ai models are going to be used for the A/B testing where i compered side by side the two models that i liked the most from this competitive analysis.
@@ -29,90 +29,92 @@ I selected this research approach to identify AI models or tools that align with
 
 1. ## Adthos
 
-    <strong>Description:</strong> Adthos provides a platform for generating scripts for audio ads, including voice overs, sound effects, and music. It uses OpenAI's GPT-4 for script generation and has a library of synthetic voices. 
+    **Description:** Adthos provides a platform for generating scripts for audio ads, including voice overs, sound effects, and music. It uses OpenAI's GPT-4 for script generation and has a library of synthetic voices. 
 
-    <p><strong>Strengths:</strong> Offers a fully produced ad, with options for editing via a browser-based, multi-track editor.
+    **Strengths:** Offers a fully produced ad, with options for editing via a browser-based, multi-track editor.
     Features a mix of in-house tech and third-party APIs.
     Provides quick production of high-quality ads.
-    Paid royalties to voice actors for using their voices.</p>
+    Paid royalties to voice actors for using their voices.
 
-     <p><strong>Weaknesses:</strong> Ethical concerns regarding the use of actors' voices.
+     **Weaknesses:** Ethical concerns regarding the use of actors' voices.
     Reliance on customers and publishers for content moderation.
-    Potential risk of producing offensive ads if not properly moderated</p>
+    Potential risk of producing offensive ads if not properly moderated
 
-
+     [Wiggesr, K]. (2023, April 5). Adthos uses generative AI to completely automate audio ads. TechCrunch.(https://techcrunch.com/2023/04/05/adthos-uses-generative-ai-to-completely-automate-audio-ads/)
 
 2. ## LOVO Ai
 
-    <strong>Description:</strong> LOVO AI specializes in AI-powered voice overs for advertisements on various platforms like YouTube, Podcasts, Spotify, and Instagram.
+    **Description:** LOVO AI specializes in AI-powered voice overs for advertisements on various platforms like YouTube, Podcasts, Spotify, and Instagram.
 
-    <p><strong>Strengths:</strong> Offers over 400 total voices optimized for digital platforms.
+    **Strengths:**Offers over 400 total voices optimized for digital platforms.
     Reduces production costs significantly.
     Claims to provide the most realistic and human AI voices.
     Supports advertisements in over 100 languages.
     Features tools for emphasizing specific parts of the script and sound effects.
-    </p>
 
-     <p><strong>Weaknesses:</strong> Specific weaknesses are general limitations of AI voice generation, such as less natural intonation or difficulty in understanding context.</p>
+     **Weaknesses:** Specific weaknesses are general limitations of AI voice generation, such as less natural intonation or difficulty in understanding context.
 
-
+     LOVO. (n.d.). [Main and Text To Speech]. LOVO. (https://lovo.ai/usecase/advertising)  
 
 3. ## Murf Ai 
 
-    <strong>Description:</strong> Murf AI provides human-like voice overs using text-to-speech technology, suitable for various media formats.
+    **Description:** Murf AI provides human-like voice overs using text-to-speech technology, suitable for various media formats.
 
-    <p><strong>Strengths:</strong> Offers a wide range of voice options across languages and accents.Provides voice customizations and media integration.Affordable pricing, starting at $19/month.
-    </p>
+    **Strengths:** Offers a wide range of voice options across languages and accents.Provides voice customizations and media integration.Affordable pricing, starting at $19/month.
+    
 
-     <p><strong>Weaknesses:</strong>The downside of this tools is that the voices sound robotic and do not provide a clear sound</p>
+     **Weaknesses:**The downside of this tools is that the voices sound robotic and do not provide a clear sound
 
-
+     Murf. (n.d.). [Main and Generate speech]. Murf. (https://murf.ai/?pscd=get.murf.ai&ps_partner_key=el94eHlh&fbclid=IwAR1g8svcGqVWlrvPoJTd30p48HSEjSyqthSeSC6ZojaHP3lhB-GcjunTCOM&ps_xid=nM4dLU1hDCS6fG&gsxid=nM4dLU1hDCS6fG&gspk=el94eHlh&gclid=Cj0KCQiAsburBhCIARIsAExmsu61h0aSDyPeQMHqVPiD8rnZVZxxjBNQEr9w2wbGXb9ayfoUHnjsBbAaAn5aEALw_wcB)
 
 4. ## Speechify Ai
 
-     <strong>Description:</strong> Speechify is a text-to-speech voice reader that can convert various text formats into audio.
+     **Description:** Speechify is a text-to-speech voice reader that can convert various text formats into audio.
 
-     <p><strong>Strengths:</strong> Offers a large selection of AI voices in multiple languages.Furthermore, offers a mobile and computer app also a Chrome extension and on top of that it provides a quality voice cloning. Supports various text sources and formats.
-     </p>
+     **Strengths:** Offers a large selection of AI voices in multiple languages.Furthermore, offers a mobile and computer app also a Chrome extension and on top of that it provides a quality voice cloning. Supports various text sources and formats.
+     
 
-      <p><strong>Weaknesses:</strong> Does not support voice changing or advanced editing. Sometimes the voice can sound that is AI generated </p>
+      **Weaknesses:** Does not support voice changing or advanced editing. Sometimes the voice can sound that is AI generated 
 
+     [Tatum, L]. March 28, 2023y. Best AI voiceover generator. Heygen. (https://www.heygen.com/article/best-ai-voiceover-generator)
 
-
+     Speechify. (n.d.). Main and Generate Speech pages. Speechify. https://speechify.com/?landing_url=https%3A%2F%2Fspeechify.com%2Ftext-to-speech-online%2F
 
 5. ## WellSaid Labs
 
-     <strong>Description:</strong> WellSaid Labs provides real-time voiceover and text-to-speech conversion for various media types.
+     **Description:** WellSaid Labs provides real-time voiceover and text-to-speech conversion for various media types.
 
-     <p><strong>Strengths:</strong> Offers highly natural-sounding and human-like voices. Supports voice cloning and over 120 AI voices in 20+ languages. Basic editing features included.
-     </p>
+     **Strengths:** Offers highly natural-sounding and human-like voices. Supports voice cloning and over 120 AI voices in 20+ languages. Basic editing features included.
+     
 
-      <p><strong>Weaknesses:</strong> Does not support voice changing or sound effects and limited emotion/tone control​. Some users face difficulties in getting AI voices to pronounce certain words correctly, even though there is a feature for pronunciation customization.</p>
+     **Weaknesses:** Does not support voice changing or sound effects and limited emotion/tone control​. Some users face difficulties in getting AI voices to pronounce certain words correctly, even though there is a feature for pronunciation customization.
 
+     Author's deatils not specified . WellSaid Labs review. Verdicts.ai. https://verdicts.ai/wellsaid-labs-review/
 
+     WellSaid Labs. (n.d.). Main and Generate Speech pages. WellSaid Labs. https://wellsaidlabs.com/
 
 6. ## ElevenLabs
 
-     <strong>Description:</strong> ElevenLabs provides voiceover text-to-speech conversions and voice cloning for various media types.
+     **Description:** ElevenLabs provides voiceover text-to-speech conversions and voice cloning for various media types.
 
-     <p><strong>Strengths:</strong> Generates realistic speech with advanced AI voice models High-quality spoken audio in any voice, style, and language. Lifelike speech generation in 29 languages with 120 voices. Precision tuning for vocal clarity and animated delivery.VoiceLab for creating unique synthetic voices and voice cloning.Long-form voice generation for audiobooks, video, and web content.Powered by cutting-edge generative AI research.
-     </p>
+     **Strengths:** Generates realistic speech with advanced AI voice models High-quality spoken audio in any voice, style, and language. Lifelike speech generation in 29 languages with 120 voices. Precision tuning for vocal clarity and animated delivery.VoiceLab for creating unique synthetic voices and voice cloning.Long-form voice generation for audiobooks, video, and web content.Powered by cutting-edge generative AI research.
+     
+      **Weaknesses:** Expensive to run
 
-      <p><strong>Weaknesses:</strong> Expensive to run</p>
-
-
-
+     ElevenLabs. (n.d.). Main and Voice lab pages. ElevenLabs. https://elevenlabs.io/
 
 7. ## Play.ht
 
-     <strong>Description:</strong> Play.ht is pretty much similar to ElevenLabs in terms of functionality
+     **Description:** Play.ht is pretty much similar to ElevenLabs in terms of functionality
 
-     <p><strong>Strengths:</strong> Versatile online AI voiceover generator for various content types.Over 907 AI voices in more than 142 languages.Simple text-to-speech editor with options for text upload in various formats.High- quality voiceovers with an option for online human voice imitation. Customization options for speed, pitch, inflections, pauses, and emotions. User-friendly interface and cost-effective solution for professional voiceovers.
-     </p>
+     **Strengths:** Versatile online AI voiceover generator for various content types.Over 907 AI voices in more than 142 languages.Simple text-to-speech editor with options for text upload in various formats.High- quality voiceovers with an option for online human voice imitation. Customization options for speed, pitch, inflections, pauses, and emotions. User-friendly interface and cost-effective solution for professional voiceovers.
 
-      <p><strong>Weaknesses:</strong> If you really listen to the voices some of them sound robotic</p>
+     **Weaknesses:** If you really listen to the voices some of them sound robotic
 
-    
+     Play.ht. (n.d.). Main and Super realistic voices. Play.ht.https://play.ht/products/ai-voiceover-generator-online/
+
+
+
 ## Conclusion
 
  

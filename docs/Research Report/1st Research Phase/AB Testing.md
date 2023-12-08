@@ -18,13 +18,13 @@ Are there similar products on the market?
 Which AI models would be suitable for the needs of the Template Designer?
 ### Activities 
 
-<p><strong>Review Project Requirements:</strong> Examine the specific requirements of the Template Designer project to identify the key functionalities and tasks where AI can be most beneficial.</p>
+**Review Project Requirements:** Examine the specific requirements of the Template Designer project to identify the key functionalities and tasks where AI can be most beneficial.
 
-<p><strong>Research AI Models:</strong>Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.</p>
+**Research AI Models:**Conduct research to identify AI models that align with the identified project requirements, considering factors like accuracy, scalability, and compatibility with the development environment.
 
-<p><strong>Market Research:</strong> Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.</p>
+**Market Research:** Conduct thorough market research to identify competing products that offer similar functionalities or services to the Campaign Designer.
 
-<strong>Feature Analysis:</strong> Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
+**Feature Analysis:** Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
 ## Findings 
 
@@ -58,8 +58,8 @@ DALL-E 2 showcases a remarkable ability to balance creativity with prompt accura
 DALL-E 2 maintains a high level of consistency in its creative interpretations. This reliability in understanding and executing prompts makes it a preferred choice for applications where adherence to the specific details of prompts is critical.
 
 ### Cost-Effectiveness
-<p>Stable Diffusion: Stable Diffusion is generally considered more cost-effective, especially for small-scale or individual users. Its pricing model tends to be more accessible, making it a viable option for those with budget constraints.
-The trade-off between the efficiency of the model and its cost is favorable. Users get a robust creative tool without a significant financial burden, making it an attractive choice for projects where cost is a key consideration.</p>
+Stable Diffusion: Stable Diffusion is generally considered more cost-effective, especially for small-scale or individual users. Its pricing model tends to be more accessible, making it a viable option for those with budget constraints.
+The trade-off between the efficiency of the model and its cost is favorable. Users get a robust creative tool without a significant financial burden, making it an attractive choice for projects where cost is a key consideration.
 Dall-e2: DALL-E 2, being a product of OpenAI, might come with a higher cost, especially for commercial use or extensive projects. This can be a limiting factor for smaller businesses or individual creators.
 Value for Money: Despite the higher cost, the value provided by DALL-E 2 in terms of image quality and alignment with prompts may justify the investment, particularly for professional or commercial applications where output quality is paramount. 
 

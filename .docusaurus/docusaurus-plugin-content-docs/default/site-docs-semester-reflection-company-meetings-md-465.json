@@ -1,0 +1,20 @@
+{
+  "id": "Semester Reflection/Company meetings",
+  "title": "Company meetings",
+  "description": "",
+  "source": "@site/docs/Semester Reflection/Company meetings.md",
+  "sourceDirName": "Semester Reflection",
+  "slug": "/Semester Reflection/Company meetings",
+  "permalink": "/docs/Semester Reflection/Company meetings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/Company meetings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teacher Meetings",
+    "permalink": "/docs/Semester Reflection/Teacher Meetings"
+  }
+}

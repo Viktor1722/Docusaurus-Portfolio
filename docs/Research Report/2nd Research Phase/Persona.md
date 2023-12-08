@@ -10,9 +10,9 @@ I chose to conduct this research in order to understand the needs and challenges
 ### Sub research questions 
 What impact Campaign Designer is going to have on the industry?
 ### Activities
-<p><strong>Industry Analysis:</strong> Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.</p>
+**Industry Analysis:** Conduct an in-depth analysis of the current state of the industry, identifying trends and challenges. This will provide insights into how the Campaign Designer can address industry needs.
 
-<strong>Competitor Evaluation:</strong> Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
+**Competitor Evaluation:** Evaluate competitors and similar products in the market to understand their strengths and weaknesses. This analysis will help anticipate how the Template Designer can stand out and make a positive impact in the industry.
 
 ## Findings 
 

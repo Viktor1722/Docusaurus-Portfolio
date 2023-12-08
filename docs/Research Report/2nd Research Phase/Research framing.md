@@ -10,7 +10,7 @@ This research method functions as a thought-provoking template, carefully crafte
 What are the key considerations that have to be taken in mind while making the research?
 
 ### Activities 
-<p><strong>Team Communication:</strong> I'll start by talking to the team members involved in AI integration. This includes developers, project managers, and anyone else working on the project.</p>
+**Team Communication.** I'll start by talking to the team members involved in AI integration. This includes developers, project managers, and anyone else working on the project.
 
 
 ## Findings 

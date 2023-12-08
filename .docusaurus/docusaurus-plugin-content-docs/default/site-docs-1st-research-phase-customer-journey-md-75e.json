@@ -1,0 +1,27 @@
+{
+  "id": "1st Research Phase /Customer Journey",
+  "title": "Customer Journey",
+  "description": "To get a real feel for how people would interact with the feature, I put together a . It was a visual story of a user's experience with our app, showing me their potential actions and thoughts at each point in the process. The clues I gathered from this map were golden. It turns out, users would really appreciate being able to whip up templates in no time it would give them a boost in productivity. This means they can focus more on the actual marketing campaigns rather than getting bogged down in design details.",
+  "source": "@site/docs/1st Research Phase /Customer Journey.md",
+  "sourceDirName": "1st Research Phase ",
+  "slug": "/1st Research Phase /Customer Journey",
+  "permalink": "/docs/1st Research Phase /Customer Journey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Customer Journey.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frame your design challenge",
+    "permalink": "/docs/1st Research Phase /Frame the design challenge"
+  },
+  "next": {
+    "title": "Persona",
+    "permalink": "/docs/1st Research Phase /Persona"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1st Research Phase /Research Introduction",
+  "title": "Research Introduction",
+  "description": "To gain a comprehensive understanding of the prоject and its objectives, including gaining insights into AI that integrates text and image processing and the methodologies for training it, I opted fоr CMD research methods. These methods are excellent for acquiring a deep understanding of the tоpic and devising effective strategies for the tasks at hand. As previously outlined in the project plan, I'm implementing the \"double diamоnd\" approach to ensure efficient time management and organization throughout the project.",
+  "source": "@site/docs/1st Research Phase /Research Introduction.md",
+  "sourceDirName": "1st Research Phase ",
+  "slug": "/1st Research Phase /Research Introduction",
+  "permalink": "/docs/1st Research Phase /Research Introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Research Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/Research Report/2nd Research Phase/AB Testing"
+  },
+  "next": {
+    "title": "Frame your design challenge",
+    "permalink": "/docs/1st Research Phase /Frame the design challenge"
+  }
+}

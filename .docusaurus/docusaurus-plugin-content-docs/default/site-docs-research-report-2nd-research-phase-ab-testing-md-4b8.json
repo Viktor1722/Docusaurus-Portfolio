@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/2nd Research Phase/AB Testing",
+  "title": "AB Testing",
+  "description": "Introduction",
+  "source": "@site/docs/Research Report/2nd Research Phase/AB Testing.md",
+  "sourceDirName": "Research Report/2nd Research Phase",
+  "slug": "/Research Report/2nd Research Phase/AB Testing",
+  "permalink": "/docs/Research Report/2nd Research Phase/AB Testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/AB Testing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Competitive analysis",
+    "permalink": "/docs/Research Report/2nd Research Phase/Competitive analysis"
+  },
+  "next": {
+    "title": "Research Introduction",
+    "permalink": "/docs/1st Research Phase /Research Introduction"
+  }
+}

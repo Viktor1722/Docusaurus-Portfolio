@@ -1,0 +1,24 @@
+{
+  "id": "Development/Voice Over Generator",
+  "title": "Voice Over Generator",
+  "description": "",
+  "source": "@site/docs/Development/Voice Over Generator.md",
+  "sourceDirName": "Development",
+  "slug": "/Development/Voice Over Generator",
+  "permalink": "/docs/Development/Voice Over Generator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Development/Voice Over Generator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/2nd Research Phase /Overview"
+  },
+  "next": {
+    "title": "Results",
+    "permalink": "/docs/Testing/Results"
+  }
+}

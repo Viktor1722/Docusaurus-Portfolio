@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/2nd Research Phase/Persona",
+  "title": "Persona",
+  "description": "Introduction",
+  "source": "@site/docs/Research Report/2nd Research Phase/Persona.md",
+  "sourceDirName": "Research Report/2nd Research Phase",
+  "slug": "/Research Report/2nd Research Phase/Persona",
+  "permalink": "/docs/Research Report/2nd Research Phase/Persona",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/Persona.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customer Journey",
+    "permalink": "/docs/Research Report/2nd Research Phase/Customer Journey"
+  },
+  "next": {
+    "title": "Competitive analysis",
+    "permalink": "/docs/Research Report/2nd Research Phase/Competitive analysis"
+  }
+}

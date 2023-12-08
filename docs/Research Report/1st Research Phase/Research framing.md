@@ -11,9 +11,9 @@ This study technique served as a creative framework, thoughtfully constructed w
 What are the key considerations that have to be taken in mind while making the research?
 
 ### Activities 
-<p><strong>Team Communication:</strong> I'll start by talking to the team members involved in AI integration. This includes developers, project managers, and anyone else working on the project.</p>
+**Team Communication:** I'll start by talking to the team members involved in AI integration. This includes developers, project managers, and anyone else working on the project.
 
-<strong>Research documents:</strong> I'll use research documentation CMD research methods and research templates like this to give an answer to my questions 
+**Research documents:** I'll use research documentation CMD research methods and research templates like this to give an answer to my questions 
 
 
 ## Findings 
