@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/1st Research Phase/Introduction",
+  "title": "Introduction",
+  "description": "During my first four weeks of being an Intern at Cape, my primary focus has been conducting research on various topics. In the initial week, I began by delving into Cape's documentation to gain a deeper understanding of their workflow and the tools they employ to accomplish their objectives. This documentation provided me with a valuable introduction to the company and significantly facilitated my adaptation process.",
+  "source": "@site/docs/2. Research Report/1st Research Phase/Introduction.md",
+  "sourceDirName": "2. Research Report/1st Research Phase",
+  "slug": "/Research Report/1st Research Phase/Introduction",
+  "permalink": "/docs/Research Report/1st Research Phase/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. Research Report/1st Research Phase/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Research framing",
+    "permalink": "/docs/Research Report/1st Research Phase/Research framing"
+  }
+}

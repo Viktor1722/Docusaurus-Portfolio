@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/2nd Research Phase/Introduction",
+  "title": "Introduction",
+  "description": "Following a discussion with my mentor and several developers about the complexities of my previous assignment, they quickly needed to devise a new task for me, considering I was already in week 5 with limited time left for research and initiating the coding phase.",
+  "source": "@site/docs/2. Research Report/2nd Research Phase/Introduction.md",
+  "sourceDirName": "2. Research Report/2nd Research Phase",
+  "slug": "/Research Report/2nd Research Phase/Introduction",
+  "permalink": "/docs/Research Report/2nd Research Phase/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. Research Report/2nd Research Phase/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/docs/Research Report/1st Research Phase/Conclusion"
+  },
+  "next": {
+    "title": "Research framing",
+    "permalink": "/docs/Research Report/2nd Research Phase/Research framing"
+  }
+}

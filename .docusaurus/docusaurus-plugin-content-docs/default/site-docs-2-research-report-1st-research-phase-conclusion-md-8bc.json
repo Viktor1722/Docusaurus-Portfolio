@@ -1,0 +1,27 @@
+{
+  "id": "Research Report/1st Research Phase/Conclusion",
+  "title": "Conclusion",
+  "description": "With two weeks dedicated to research, I quickly grasped the complex nature of the task at hand. Utilizing the CMD Research methods, the depth of the challenge became evident. Balancing the available time, my skillset, and the hardware capabilities during my internship, I realized that completing the task was beyond reach since Cape wanted this visual Ai model to be trained which required serious skill set and powerful pc. This realization led me to discuss the project's feasibility with my internship mentor. Upon presenting my findings and concerns, he understood my perspective. Our subsequent consultations with experienced developers from the company showed that the task was very optimistic indeed. The sheer magnitude of the assignment became clear to both of us, prompting a reconsideration of my assignment.",
+  "source": "@site/docs/2. Research Report/1st Research Phase/Conclusion.md",
+  "sourceDirName": "2. Research Report/1st Research Phase",
+  "slug": "/Research Report/1st Research Phase/Conclusion",
+  "permalink": "/docs/Research Report/1st Research Phase/Conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. Research Report/1st Research Phase/Conclusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/Research Report/1st Research Phase/AB Testing"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/Research Report/2nd Research Phase/Introduction"
+  }
+}
