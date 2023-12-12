@@ -151,6 +151,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Research Report/Reflection",
+              "path": "/docs/Research Report/Reflection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Semester Reflection/Company meetings",
               "path": "/docs/Semester Reflection/Company meetings",
               "sidebar": "tutorialSidebar"

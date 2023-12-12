@@ -128,6 +128,13 @@
                 "unlisted": false
               }
             ]
+          },
+          {
+            "type": "link",
+            "label": "Reflection",
+            "href": "/docs/Research Report/Reflection",
+            "docId": "Research Report/Reflection",
+            "unlisted": false
           }
         ]
       },
@@ -459,6 +466,12 @@
       "id": "Research Report/2nd Research Phase/Research framing",
       "title": "Research framing",
       "description": "Introduction and Why I choose this method",
+      "sidebar": "tutorialSidebar"
+    },
+    "Research Report/Reflection": {
+      "id": "Research Report/Reflection",
+      "title": "Reflection",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Semester Reflection/Company meetings": {

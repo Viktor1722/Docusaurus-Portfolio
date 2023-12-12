@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7c8'),
+    component: ComponentCreator('/docs', 'a89'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ff2'),
+        component: ComponentCreator('/docs', '33a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e28'),
+            component: ComponentCreator('/docs', '9d8'),
             routes: [
               {
                 path: '/docs/',
@@ -146,79 +146,85 @@ export default [
               },
               {
                 path: '/docs/Research Report/1st Research Phase/AB Testing',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/AB Testing', 'a2d'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/AB Testing', '927'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Competitive analysis',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Competitive analysis', '7a5'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Competitive analysis', '7f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Conclusion',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Conclusion', '691'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Conclusion', '9c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Customer Journey',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Customer Journey', '496'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Customer Journey', '0a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Introduction',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Introduction', 'f72'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Introduction', 'a64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Persona',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Persona', '71e'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Persona', 'ede'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/1st Research Phase/Research framing',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Research framing', 'd09'),
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Research framing', 'f8c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/AB Testing',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/AB Testing', '974'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/AB Testing', 'c46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/Competitive analysis',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Competitive analysis', '9c0'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Competitive analysis', 'fb5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/Customer Journey',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Customer Journey', 'f3e'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Customer Journey', '17b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/Introduction',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Introduction', 'bad'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Introduction', 'cb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/Persona',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Persona', '0ab'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Persona', '3e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Research Report/2nd Research Phase/Research framing',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Research framing', 'e48'),
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Research framing', 'ba4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Research Report/Reflection',
+                component: ComponentCreator('/docs/Research Report/Reflection', '416'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

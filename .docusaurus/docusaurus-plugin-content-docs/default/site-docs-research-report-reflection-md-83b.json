@@ -1,0 +1,24 @@
+{
+  "id": "Research Report/Reflection",
+  "title": "Reflection",
+  "description": "",
+  "source": "@site/docs/Research Report/Reflection.md",
+  "sourceDirName": "Research Report",
+  "slug": "/Research Report/Reflection",
+  "permalink": "/docs/Research Report/Reflection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/Reflection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/Research Report/2nd Research Phase/AB Testing"
+  },
+  "next": {
+    "title": "Research Introduction",
+    "permalink": "/docs/1st Research Phase /Research Introduction"
+  }
+}
