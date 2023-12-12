@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a89'),
+    component: ComponentCreator('/docs', 'c6d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '33a'),
+        component: ComponentCreator('/docs', 'b44'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9d8'),
+            component: ComponentCreator('/docs', 'eae'),
             routes: [
               {
                 path: '/docs/',
@@ -79,12 +79,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/1st Research Phase /Frame the design challenge',
-                component: ComponentCreator('/docs/1st Research Phase /Frame the design challenge', '1cc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/1st Research Phase /Overview',
                 component: ComponentCreator('/docs/1st Research Phase /Overview', '97f'),
                 exact: true,
@@ -93,6 +87,12 @@ export default [
               {
                 path: '/docs/1st Research Phase /Persona',
                 component: ComponentCreator('/docs/1st Research Phase /Persona', 'd60'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/1st Research Phase /Research framing',
+                component: ComponentCreator('/docs/1st Research Phase /Research framing', '69d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

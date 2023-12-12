@@ -154,8 +154,8 @@
           {
             "type": "link",
             "label": "Frame your design challenge",
-            "href": "/docs/1st Research Phase /Frame the design challenge",
-            "docId": "1st Research Phase /Frame the design challenge",
+            "href": "/docs/1st Research Phase /Research framing",
+            "docId": "1st Research Phase /Research framing",
             "unlisted": false
           },
           {
@@ -318,12 +318,6 @@
       "description": "To get a real feel for how people would interact with the feature, I put together a . It was a visual story of a user's experience with our app, showing me their potential actions and thoughts at each point in the process. The clues I gathered from this map were golden. It turns out, users would really appreciate being able to whip up templates in no time it would give them a boost in productivity. This means they can focus more on the actual marketing campaigns rather than getting bogged down in design details.",
       "sidebar": "tutorialSidebar"
     },
-    "1st Research Phase /Frame the design challenge": {
-      "id": "1st Research Phase /Frame the design challenge",
-      "title": "Frame your design challenge",
-      "description": "Why is choose this research method",
-      "sidebar": "tutorialSidebar"
-    },
     "1st Research Phase /Overview": {
       "id": "1st Research Phase /Overview",
       "title": "Overview",
@@ -334,6 +328,12 @@
       "id": "1st Research Phase /Persona",
       "title": "Persona",
       "description": "In the course of my research on incorporating a text-to-image AI model into a marketing platform, the development of two distinct personas, Carlos Rodriguez and Maya Patel, was crucial in understanding the diverse needs within the advertising and social media marketing sectors. These personas provided valuable insights into how such a feature could revolutionize the process of creating visual content for ads and social media.",
+      "sidebar": "tutorialSidebar"
+    },
+    "1st Research Phase /Research framing": {
+      "id": "1st Research Phase /Research framing",
+      "title": "Frame your design challenge",
+      "description": "Why is choose this research method",
       "sidebar": "tutorialSidebar"
     },
     "1st Research Phase /Research Introduction": {

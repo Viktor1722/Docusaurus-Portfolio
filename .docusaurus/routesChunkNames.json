@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a89": {
+  "/docs-c6d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docscf-1-a8f"
     }
   },
-  "/docs-33a": {
+  "/docs-b44": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-9d8": {
+  "/docs-eae": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-f14": {
@@ -78,10 +78,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1st-research-phase-customer-journey-75-e-36c"
   },
-  "/docs/1st Research Phase /Frame the design challenge-1cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1st-research-phase-frame-the-design-challenge-066-d66"
-  },
   "/docs/1st Research Phase /Overview-97f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1st-research-phase-overview-24-b-1f0"
@@ -89,6 +85,10 @@
   "/docs/1st Research Phase /Persona-d60": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1st-research-phase-persona-819-c7d"
+  },
+  "/docs/1st Research Phase /Research framing-69d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-1st-research-phase-research-framingf-28-353"
   },
   "/docs/1st Research Phase /Research Introduction-5ed": {
     "__comp": "__comp---theme-doc-item-178-a40",

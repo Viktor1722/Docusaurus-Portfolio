@@ -26,11 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "1st Research Phase /Frame the design challenge",
-              "path": "/docs/1st Research Phase /Frame the design challenge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "1st Research Phase /Overview",
               "path": "/docs/1st Research Phase /Overview",
               "sidebar": "tutorialSidebar"
@@ -38,6 +33,11 @@
             {
               "id": "1st Research Phase /Persona",
               "path": "/docs/1st Research Phase /Persona",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1st Research Phase /Research framing",
+              "path": "/docs/1st Research Phase /Research framing",
               "sidebar": "tutorialSidebar"
             },
             {

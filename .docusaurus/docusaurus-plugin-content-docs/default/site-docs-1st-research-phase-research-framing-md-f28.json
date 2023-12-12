@@ -1,0 +1,27 @@
+{
+  "id": "1st Research Phase /Research framing",
+  "title": "Frame your design challenge",
+  "description": "Why is choose this research method",
+  "source": "@site/docs/1st Research Phase /Research framing.md",
+  "sourceDirName": "1st Research Phase ",
+  "slug": "/1st Research Phase /Research framing",
+  "permalink": "/docs/1st Research Phase /Research framing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Research framing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research Introduction",
+    "permalink": "/docs/1st Research Phase /Research Introduction"
+  },
+  "next": {
+    "title": "Customer Journey",
+    "permalink": "/docs/1st Research Phase /Customer Journey"
+  }
+}
