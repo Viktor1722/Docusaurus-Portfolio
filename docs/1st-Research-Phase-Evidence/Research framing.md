@@ -15,5 +15,5 @@ The template's application in the initial phase paved the way for a methodical, 
 ### More information
 [Back to the research document-Research framing template](../Research%20Report/1st%20Research%20Phase/Research%20framing.md)
 #
-![Image of the template](../img/frameYourChallenge.png)
+![Image of the template](../img/designChallenge.png)
 
