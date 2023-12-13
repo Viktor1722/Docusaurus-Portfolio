@@ -20,64 +20,64 @@
           "contentPathLocalized": "/Users/viktorvelizarov/Desktop/Docusaurus-Portfolio/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "1st Research Phase /AB Testing",
+              "id": "1st-Research-Phase-Evidence/AB Testing",
               "title": "AB Testing",
               "description": "",
-              "source": "@site/docs/1st Research Phase /AB Testing.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /AB Testing",
-              "permalink": "/docs/1st Research Phase /AB Testing",
+              "source": "@site/docs/1st-Research-Phase-Evidence/AB Testing.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/AB Testing",
+              "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /AB Testing.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/AB Testing.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Persona",
-                "permalink": "/docs/1st Research Phase /Persona"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
               },
               "next": {
                 "title": "Competitor analysis",
-                "permalink": "/docs/1st Research Phase /Competitor analysis"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
               }
             },
             {
-              "id": "1st Research Phase /Competitor analysis",
+              "id": "1st-Research-Phase-Evidence/Competitor analysis",
               "title": "Competitor analysis",
               "description": "",
-              "source": "@site/docs/1st Research Phase /Competitor analysis.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Competitor analysis",
-              "permalink": "/docs/1st Research Phase /Competitor analysis",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Competitor analysis",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Competitor analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "AB Testing",
-                "permalink": "/docs/1st Research Phase /AB Testing"
+                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
               },
               "next": {
                 "title": "Overview",
-                "permalink": "/docs/1st Research Phase /Overview"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
               }
             },
             {
-              "id": "1st Research Phase /Customer Journey",
+              "id": "1st-Research-Phase-Evidence/Customer Journey",
               "title": "Customer Journey",
               "description": "To get a real feel for how people would interact with the feature, I put together a Customer journey map. This was a visual story of a user's path of before and after finding the tool, showing me their potential actions and thoughts at each point in the process. The clues I gathered from this map were from a great interest. It turns out, users would really appreciate being able to whip up templates in no time it would give them a boost in productivity. This means they can focus more on the actual marketing campaigns rather than getting bogged down in design details.",
-              "source": "@site/docs/1st Research Phase /Customer Journey.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Customer Journey",
-              "permalink": "/docs/1st Research Phase /Customer Journey",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Customer Journey.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Customer Journey",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Customer Journey.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Customer Journey.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -87,24 +87,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Research framing",
-                "permalink": "/docs/1st Research Phase /Research framing"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Research framing"
               },
               "next": {
                 "title": "Persona",
-                "permalink": "/docs/1st Research Phase /Persona"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
               }
             },
             {
-              "id": "1st Research Phase /Overview",
+              "id": "1st-Research-Phase-Evidence/Overview",
               "title": "Overview",
               "description": "",
-              "source": "@site/docs/1st Research Phase /Overview.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Overview",
-              "permalink": "/docs/1st Research Phase /Overview",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Overview.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Overview",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Overview",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Overview.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Overview.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -113,24 +113,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Competitor analysis",
-                "permalink": "/docs/1st Research Phase /Competitor analysis"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
               },
               "next": {
                 "title": "Research Introduction",
-                "permalink": "/docs/2nd Research Phase /Research Introduction"
+                "permalink": "/docs/2nd Research Phase Evidence/Research Introduction"
               }
             },
             {
-              "id": "1st Research Phase /Persona",
+              "id": "1st-Research-Phase-Evidence/Persona",
               "title": "Persona",
               "description": "In the course of my research on incorporating a text-to-image AI model into a marketing platform, the development of two distinct personas, Carlos Rodriguez and Maya Patel, was crucial in understanding the diverse needs within the advertising and social media marketing sectors. These personas provided valuable insights into how such a feature could revolutionize the process of creating visual content for ads and social media.",
-              "source": "@site/docs/1st Research Phase /Persona.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Persona",
-              "permalink": "/docs/1st Research Phase /Persona",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Persona.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Persona",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Persona",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Persona.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Persona.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -140,24 +140,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Customer Journey",
-                "permalink": "/docs/1st Research Phase /Customer Journey"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
               },
               "next": {
                 "title": "AB Testing",
-                "permalink": "/docs/1st Research Phase /AB Testing"
+                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
               }
             },
             {
-              "id": "1st Research Phase /Research framing",
+              "id": "1st-Research-Phase-Evidence/Research framing",
               "title": "Research framing",
               "description": "In the initial stages of my research, I made the decision to employ the CMD research methodology, starting with the Research Framing template. This decision was influenced by the comprehensive nature of the template, which was an effective method for framing the objectives, challenges, and critical factors at the start of my investigation. This foundational step was crucial as it laid out a clear roadmap for the entire research and development phase. By methodically addressing specific questions, I was able to gain a broad understanding of the direction I needed to pursue and the necessary actions to undertake.",
-              "source": "@site/docs/1st Research Phase /Research framing.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Research framing",
-              "permalink": "/docs/1st Research Phase /Research framing",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Research framing.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Research framing",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Research framing",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Research framing.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Research framing.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -167,24 +167,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Research Introduction",
-                "permalink": "/docs/1st Research Phase /Research Introduction"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction"
               },
               "next": {
                 "title": "Customer Journey",
-                "permalink": "/docs/1st Research Phase /Customer Journey"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
               }
             },
             {
-              "id": "1st Research Phase /Research Introduction",
+              "id": "1st-Research-Phase-Evidence/Research Introduction",
               "title": "Research Introduction",
               "description": "To gain a comprehensive understanding of the prоject and its objectives, including gaining insights into AI that integrates text and image processing and the methodologies for training it, I opted fоr CMD research methods. These methods are excellent for acquiring a deep understanding of the tоpic and devising effective strategies for the tasks at hand. As previously outlined in the project plan, I'm implementing the \"double diamоnd\" approach to ensure efficient time management and organization throughout the project.",
-              "source": "@site/docs/1st Research Phase /Research Introduction.md",
-              "sourceDirName": "1st Research Phase ",
-              "slug": "/1st Research Phase /Research Introduction",
-              "permalink": "/docs/1st Research Phase /Research Introduction",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Research Introduction.md",
+              "sourceDirName": "1st-Research-Phase-Evidence",
+              "slug": "/1st-Research-Phase-Evidence/Research Introduction",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st Research Phase /Research Introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Research Introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -198,20 +198,20 @@
               },
               "next": {
                 "title": "Research framing",
-                "permalink": "/docs/1st Research Phase /Research framing"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Research framing"
               }
             },
             {
-              "id": "2nd Research Phase /Competitor analysis",
+              "id": "2nd Research Phase Evidence/Competitor analysis",
               "title": "Competitor analysis",
               "description": "",
-              "source": "@site/docs/2nd Research Phase /Competitor analysis.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Competitor analysis",
-              "permalink": "/docs/2nd Research Phase /Competitor analysis",
+              "source": "@site/docs/2nd Research Phase Evidence/Competitor analysis.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Competitor analysis",
+              "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Competitor analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Competitor analysis.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -221,24 +221,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Research Introduction",
-                "permalink": "/docs/2nd Research Phase /Research Introduction"
+                "permalink": "/docs/2nd Research Phase Evidence/Research Introduction"
               },
               "next": {
                 "title": "Customer Journey",
-                "permalink": "/docs/2nd Research Phase /Customer Journey"
+                "permalink": "/docs/2nd Research Phase Evidence/Customer Journey"
               }
             },
             {
-              "id": "2nd Research Phase /Customer Journey",
+              "id": "2nd Research Phase Evidence/Customer Journey",
               "title": "Customer Journey",
               "description": "",
-              "source": "@site/docs/2nd Research Phase /Customer Journey.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Customer Journey",
-              "permalink": "/docs/2nd Research Phase /Customer Journey",
+              "source": "@site/docs/2nd Research Phase Evidence/Customer Journey.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Customer Journey",
+              "permalink": "/docs/2nd Research Phase Evidence/Customer Journey",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Customer Journey.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Customer Journey.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -248,24 +248,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Competitor analysis",
-                "permalink": "/docs/2nd Research Phase /Competitor analysis"
+                "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis"
               },
               "next": {
                 "title": "Frame the desing challenge",
-                "permalink": "/docs/2nd Research Phase /Frame the desing challenge"
+                "permalink": "/docs/2nd Research Phase Evidence/Frame the desing challenge"
               }
             },
             {
-              "id": "2nd Research Phase /Frame the desing challenge",
+              "id": "2nd Research Phase Evidence/Frame the desing challenge",
               "title": "Frame the desing challenge",
               "description": "",
-              "source": "@site/docs/2nd Research Phase /Frame the desing challenge.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Frame the desing challenge",
-              "permalink": "/docs/2nd Research Phase /Frame the desing challenge",
+              "source": "@site/docs/2nd Research Phase Evidence/Frame the desing challenge.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Frame the desing challenge",
+              "permalink": "/docs/2nd Research Phase Evidence/Frame the desing challenge",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Frame the desing challenge.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Frame the desing challenge.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -275,24 +275,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Customer Journey",
-                "permalink": "/docs/2nd Research Phase /Customer Journey"
+                "permalink": "/docs/2nd Research Phase Evidence/Customer Journey"
               },
               "next": {
                 "title": "Persona",
-                "permalink": "/docs/2nd Research Phase /Persona"
+                "permalink": "/docs/2nd Research Phase Evidence/Persona"
               }
             },
             {
-              "id": "2nd Research Phase /Overview",
+              "id": "2nd Research Phase Evidence/Overview",
               "title": "Overview",
               "description": "",
-              "source": "@site/docs/2nd Research Phase /Overview.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Overview",
-              "permalink": "/docs/2nd Research Phase /Overview",
+              "source": "@site/docs/2nd Research Phase Evidence/Overview.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Overview",
+              "permalink": "/docs/2nd Research Phase Evidence/Overview",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Overview.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Overview.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -302,7 +302,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Persona",
-                "permalink": "/docs/2nd Research Phase /Persona"
+                "permalink": "/docs/2nd Research Phase Evidence/Persona"
               },
               "next": {
                 "title": "Voice Over Generator",
@@ -310,16 +310,16 @@
               }
             },
             {
-              "id": "2nd Research Phase /Persona",
+              "id": "2nd Research Phase Evidence/Persona",
               "title": "Persona",
               "description": "In my research on the integration of advanced voice-over generation in marketing platforms, I constructed two distinct personas: Christina, a marketing manager in a tech company, and Max, a freelance digital marketer. These personas were instrumental in deepening my understanding of the diverse needs and challenges faced by professionals in the marketing industry, particularly in the realm of creating compelling audio content.",
-              "source": "@site/docs/2nd Research Phase /Persona.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Persona",
-              "permalink": "/docs/2nd Research Phase /Persona",
+              "source": "@site/docs/2nd Research Phase Evidence/Persona.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Persona",
+              "permalink": "/docs/2nd Research Phase Evidence/Persona",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Persona.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Persona.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -329,24 +329,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Frame the desing challenge",
-                "permalink": "/docs/2nd Research Phase /Frame the desing challenge"
+                "permalink": "/docs/2nd Research Phase Evidence/Frame the desing challenge"
               },
               "next": {
                 "title": "Overview",
-                "permalink": "/docs/2nd Research Phase /Overview"
+                "permalink": "/docs/2nd Research Phase Evidence/Overview"
               }
             },
             {
-              "id": "2nd Research Phase /Research Introduction",
+              "id": "2nd Research Phase Evidence/Research Introduction",
               "title": "Research Introduction",
               "description": "",
-              "source": "@site/docs/2nd Research Phase /Research Introduction.md",
-              "sourceDirName": "2nd Research Phase ",
-              "slug": "/2nd Research Phase /Research Introduction",
-              "permalink": "/docs/2nd Research Phase /Research Introduction",
+              "source": "@site/docs/2nd Research Phase Evidence/Research Introduction.md",
+              "sourceDirName": "2nd Research Phase Evidence",
+              "slug": "/2nd Research Phase Evidence/Research Introduction",
+              "permalink": "/docs/2nd Research Phase Evidence/Research Introduction",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase /Research Introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Research Introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -356,11 +356,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/1st Research Phase /Overview"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
               },
               "next": {
                 "title": "Competitor analysis",
-                "permalink": "/docs/2nd Research Phase /Competitor analysis"
+                "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis"
               }
             },
             {
@@ -380,7 +380,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/2nd Research Phase /Overview"
+                "permalink": "/docs/2nd Research Phase Evidence/Overview"
               },
               "next": {
                 "title": "Results",
@@ -783,7 +783,7 @@
               },
               "next": {
                 "title": "Research Introduction",
-                "permalink": "/docs/1st Research Phase /Research Introduction"
+                "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction"
               }
             },
             {
@@ -947,37 +947,37 @@
               },
               {
                 "type": "category",
-                "label": "1st Research Phase",
+                "label": "1st-Research-Phase-Evidence",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Research Introduction"
+                    "id": "1st-Research-Phase-Evidence/Research Introduction"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Research framing"
+                    "id": "1st-Research-Phase-Evidence/Research framing"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Customer Journey"
+                    "id": "1st-Research-Phase-Evidence/Customer Journey"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Persona"
+                    "id": "1st-Research-Phase-Evidence/Persona"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /AB Testing"
+                    "id": "1st-Research-Phase-Evidence/AB Testing"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Competitor analysis"
+                    "id": "1st-Research-Phase-Evidence/Competitor analysis"
                   },
                   {
                     "type": "doc",
-                    "id": "1st Research Phase /Overview"
+                    "id": "1st-Research-Phase-Evidence/Overview"
                   }
                 ]
               },
@@ -989,27 +989,27 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Research Introduction"
+                    "id": "2nd Research Phase Evidence/Research Introduction"
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Competitor analysis"
+                    "id": "2nd Research Phase Evidence/Competitor analysis"
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Customer Journey"
+                    "id": "2nd Research Phase Evidence/Customer Journey"
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Frame the desing challenge"
+                    "id": "2nd Research Phase Evidence/Frame the desing challenge"
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Persona"
+                    "id": "2nd Research Phase Evidence/Persona"
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase /Overview"
+                    "id": "2nd Research Phase Evidence/Overview"
                   }
                 ]
               },

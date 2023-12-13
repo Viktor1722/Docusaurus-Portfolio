@@ -1,0 +1,27 @@
+{
+  "id": "Evidence/1st Research Phase /Persona",
+  "title": "Persona",
+  "description": "In the course of my research on incorporating a text-to-image AI model into a marketing platform, the development of two distinct personas, Carlos Rodriguez and Maya Patel, was crucial in understanding the diverse needs within the advertising and social media marketing sectors. These personas provided valuable insights into how such a feature could revolutionize the process of creating visual content for ads and social media.",
+  "source": "@site/docs/Evidence/1st Research Phase /Persona.md",
+  "sourceDirName": "Evidence/1st Research Phase ",
+  "slug": "/Evidence/1st Research Phase /Persona",
+  "permalink": "/docs/Evidence/1st Research Phase /Persona",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Evidence/1st Research Phase /Persona.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customer Journey",
+    "permalink": "/docs/Evidence/1st Research Phase /Customer Journey"
+  },
+  "next": {
+    "title": "AB Testing",
+    "permalink": "/docs/Evidence/1st Research Phase /AB Testing"
+  }
+}

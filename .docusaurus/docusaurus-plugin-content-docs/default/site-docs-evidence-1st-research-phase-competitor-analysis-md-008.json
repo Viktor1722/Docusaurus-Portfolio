@@ -1,0 +1,24 @@
+{
+  "id": "Evidence/1st Research Phase /Competitor analysis",
+  "title": "Competitor analysis",
+  "description": "",
+  "source": "@site/docs/Evidence/1st Research Phase /Competitor analysis.md",
+  "sourceDirName": "Evidence/1st Research Phase ",
+  "slug": "/Evidence/1st Research Phase /Competitor analysis",
+  "permalink": "/docs/Evidence/1st Research Phase /Competitor analysis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Evidence/1st Research Phase /Competitor analysis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/Evidence/1st Research Phase /AB Testing"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/Evidence/1st Research Phase /Overview"
+  }
+}

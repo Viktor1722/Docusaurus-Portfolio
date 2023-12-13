@@ -1,0 +1,24 @@
+{
+  "id": "Allo/Competitor analysis",
+  "title": "Competitor analysis",
+  "description": "",
+  "source": "@site/docs/Allo/Competitor analysis.md",
+  "sourceDirName": "Allo",
+  "slug": "/Allo/Competitor analysis",
+  "permalink": "/docs/Allo/Competitor analysis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Allo/Competitor analysis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/Allo/AB Testing"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/Allo/Overview"
+  }
+}

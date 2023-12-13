@@ -1,0 +1,27 @@
+{
+  "id": "Evidence/2nd Research Phase /Customer Journey",
+  "title": "Customer Journey",
+  "description": "",
+  "source": "@site/docs/Evidence/2nd Research Phase /Customer Journey.md",
+  "sourceDirName": "Evidence/2nd Research Phase ",
+  "slug": "/Evidence/2nd Research Phase /Customer Journey",
+  "permalink": "/docs/Evidence/2nd Research Phase /Customer Journey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Evidence/2nd Research Phase /Customer Journey.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Competitor analysis",
+    "permalink": "/docs/Evidence/2nd Research Phase /Competitor analysis"
+  },
+  "next": {
+    "title": "Frame the desing challenge",
+    "permalink": "/docs/Evidence/2nd Research Phase /Frame the desing challenge"
+  }
+}
