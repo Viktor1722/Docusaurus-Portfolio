@@ -153,7 +153,7 @@
           },
           {
             "type": "link",
-            "label": "Frame your design challenge",
+            "label": "Research framing",
             "href": "/docs/1st Research Phase /Research framing",
             "docId": "1st Research Phase /Research framing",
             "unlisted": false
@@ -332,8 +332,8 @@
     },
     "1st Research Phase /Research framing": {
       "id": "1st Research Phase /Research framing",
-      "title": "Frame your design challenge",
-      "description": "Why is choose this research method",
+      "title": "Research framing",
+      "description": "In the initial stages of my research, I made the decision to employ the CMD research methodology, starting with the Research Framing template. This decision was influenced by the comprehensive nature of the template, which was an effective method for framing the objectives, challenges, and critical factors at the start of my investigation. This foundational step was crucial as it laid out a clear roadmap for the entire research and development phase. By methodically addressing specific questions, I was able to gain a broad understanding of the direction I needed to pursue and the necessary actions to undertake.",
       "sidebar": "tutorialSidebar"
     },
     "1st Research Phase /Research Introduction": {
