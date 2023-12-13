@@ -146,13 +146,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Research Introduction",
-            "href": "/docs/1st-Research-Phase-Evidence/Research Introduction",
-            "docId": "1st-Research-Phase-Evidence/Research Introduction",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Research framing",
             "href": "/docs/1st-Research-Phase-Evidence/Research framing",
             "docId": "1st-Research-Phase-Evidence/Research framing",
@@ -174,16 +167,16 @@
           },
           {
             "type": "link",
-            "label": "AB Testing",
-            "href": "/docs/1st-Research-Phase-Evidence/AB Testing",
-            "docId": "1st-Research-Phase-Evidence/AB Testing",
+            "label": "Competitor analysis",
+            "href": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
+            "docId": "1st-Research-Phase-Evidence/Competitor analysis",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Competitor analysis",
-            "href": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
-            "docId": "1st-Research-Phase-Evidence/Competitor analysis",
+            "label": "AB Testing",
+            "href": "/docs/1st-Research-Phase-Evidence/AB Testing",
+            "docId": "1st-Research-Phase-Evidence/AB Testing",
             "unlisted": false
           },
           {
@@ -309,7 +302,7 @@
     "1st-Research-Phase-Evidence/Competitor analysis": {
       "id": "1st-Research-Phase-Evidence/Competitor analysis",
       "title": "Competitor analysis",
-      "description": "",
+      "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for my project. My ability to research this field of AI technology has greatly benefited from using this method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
       "sidebar": "tutorialSidebar"
     },
     "1st-Research-Phase-Evidence/Customer Journey": {
@@ -334,12 +327,6 @@
       "id": "1st-Research-Phase-Evidence/Research framing",
       "title": "Research framing",
       "description": "In the initial stages of my research, I made the decision to employ the CMD research methodology, starting with the Research Framing template. This decision was influenced by the comprehensive nature of the template, which was an effective method for framing the objectives, challenges, and critical factors at the start of my investigation. This foundational step was crucial as it laid out a clear roadmap for the entire research and development phase. By methodically addressing specific questions, I was able to gain a broad understanding of the direction I needed to pursue and the necessary actions to undertake.",
-      "sidebar": "tutorialSidebar"
-    },
-    "1st-Research-Phase-Evidence/Research Introduction": {
-      "id": "1st-Research-Phase-Evidence/Research Introduction",
-      "title": "Research Introduction",
-      "description": "To gain a comprehensive understanding of the prоject and its objectives, including gaining insights into AI that integrates text and image processing and the methodologies for training it, I opted fоr CMD research methods. These methods are excellent for acquiring a deep understanding of the tоpic and devising effective strategies for the tasks at hand. As previously outlined in the project plan, I'm implementing the \"double diamоnd\" approach to ensure efficient time management and organization throughout the project.",
       "sidebar": "tutorialSidebar"
     },
     "2nd Research Phase Evidence/Competitor analysis": {

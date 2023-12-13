@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Persona",
-    "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
-  },
-  "next": {
     "title": "Competitor analysis",
     "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
   }
 }

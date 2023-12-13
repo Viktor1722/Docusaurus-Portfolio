@@ -35,18 +35,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Persona",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
-              },
-              "next": {
                 "title": "Competitor analysis",
                 "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
               }
             },
             {
               "id": "1st-Research-Phase-Evidence/Competitor analysis",
               "title": "Competitor analysis",
-              "description": "",
+              "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for my project. My ability to research this field of AI technology has greatly benefited from using this method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
               "source": "@site/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
               "sourceDirName": "1st-Research-Phase-Evidence",
               "slug": "/1st-Research-Phase-Evidence/Competitor analysis",
@@ -56,15 +56,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "AB Testing",
-                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
+                "title": "Persona",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
               },
               "next": {
-                "title": "Overview",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
+                "title": "AB Testing",
+                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
               }
             },
             {
@@ -80,9 +83,9 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Customer Journey.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -112,8 +115,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Competitor analysis",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
+                "title": "AB Testing",
+                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
               },
               "next": {
                 "title": "Research Introduction",
@@ -133,9 +136,9 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Persona.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -143,8 +146,8 @@
                 "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
               },
               "next": {
-                "title": "AB Testing",
-                "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
+                "title": "Competitor analysis",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
               }
             },
             {
@@ -160,33 +163,6 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Research framing.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Research Introduction",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction"
-              },
-              "next": {
-                "title": "Customer Journey",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
-              }
-            },
-            {
-              "id": "1st-Research-Phase-Evidence/Research Introduction",
-              "title": "Research Introduction",
-              "description": "To gain a comprehensive understanding of the prоject and its objectives, including gaining insights into AI that integrates text and image processing and the methodologies for training it, I opted fоr CMD research methods. These methods are excellent for acquiring a deep understanding of the tоpic and devising effective strategies for the tasks at hand. As previously outlined in the project plan, I'm implementing the \"double diamоnd\" approach to ensure efficient time management and organization throughout the project.",
-              "source": "@site/docs/1st-Research-Phase-Evidence/Research Introduction.md",
-              "sourceDirName": "1st-Research-Phase-Evidence",
-              "slug": "/1st-Research-Phase-Evidence/Research Introduction",
-              "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Research Introduction.md",
-              "tags": [],
-              "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
@@ -197,8 +173,8 @@
                 "permalink": "/docs/Research Report/Reflection"
               },
               "next": {
-                "title": "Research framing",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Research framing"
+                "title": "Customer Journey",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
               }
             },
             {
@@ -782,8 +758,8 @@
                 "permalink": "/docs/Research Report/2nd Research Phase/AB Testing"
               },
               "next": {
-                "title": "Research Introduction",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Research Introduction"
+                "title": "Research framing",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Research framing"
               }
             },
             {
@@ -953,10 +929,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "1st-Research-Phase-Evidence/Research Introduction"
-                  },
-                  {
-                    "type": "doc",
                     "id": "1st-Research-Phase-Evidence/Research framing"
                   },
                   {
@@ -969,11 +941,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "1st-Research-Phase-Evidence/AB Testing"
+                    "id": "1st-Research-Phase-Evidence/Competitor analysis"
                   },
                   {
                     "type": "doc",
-                    "id": "1st-Research-Phase-Evidence/Competitor analysis"
+                    "id": "1st-Research-Phase-Evidence/AB Testing"
                   },
                   {
                     "type": "doc",

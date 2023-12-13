@@ -1,7 +1,7 @@
 {
   "id": "1st-Research-Phase-Evidence/Competitor analysis",
   "title": "Competitor analysis",
-  "description": "",
+  "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for my project. My ability to research this field of AI technology has greatly benefited from using this method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
   "source": "@site/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
   "sourceDirName": "1st-Research-Phase-Evidence",
   "slug": "/1st-Research-Phase-Evidence/Competitor analysis",
@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "AB Testing",
-    "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
+    "title": "Persona",
+    "permalink": "/docs/1st-Research-Phase-Evidence/Persona"
   },
   "next": {
-    "title": "Overview",
-    "permalink": "/docs/1st-Research-Phase-Evidence/Overview"
+    "title": "AB Testing",
+    "permalink": "/docs/1st-Research-Phase-Evidence/AB Testing"
   }
 }

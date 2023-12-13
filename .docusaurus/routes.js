@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b0f'),
+    component: ComponentCreator('/docs', 'c15'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f12'),
+        component: ComponentCreator('/docs', '650'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a5f'),
+            component: ComponentCreator('/docs', '259'),
             routes: [
               {
                 path: '/docs/',
@@ -93,12 +93,6 @@ export default [
               {
                 path: '/docs/1st-Research-Phase-Evidence/Research framing',
                 component: ComponentCreator('/docs/1st-Research-Phase-Evidence/Research framing', '3ff'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/1st-Research-Phase-Evidence/Research Introduction',
-                component: ComponentCreator('/docs/1st-Research-Phase-Evidence/Research Introduction', '8ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

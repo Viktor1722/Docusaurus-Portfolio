@@ -4,16 +4,16 @@ sidebar_position: 4
 #
 ## Introduction
 
-This study offers a thorough examination of the industry for AI imagine generation, with a particular emphasis on major rivals that provide text-to-image services for the creation of images. My research reveals a range of advantages and disadvantages for each of these platforms, pointing me areas where my product can be improved and innovated.
+This research method offers a thorough examination of the industry for AI image generation, with a particular emphasis on major rivals that provide text-to-image services. My research reveals a range of advantages and disadvantages for each of these platforms, pointing me areas where my product can be improved and innovated.
 
 
 ## Market Overview and methodology 
-The market for AI image production is expanding quickly due to developments in text-to-image AI technology. Its importance in advertising is expanding because these tools provide economical, effective, and adaptable means of producing a wide range of interesting and captivating material.These kinds of solutions provide users with a variety of advantages, including quicker and more cost-effective image template production. 
-Regarding the process, I have consulted a number of web sources, including product pages, essays, and analysis of the manufacture of advertising campaigns. 
+The market for AI image production is expanding quickly due to developments in text-to-image AI technology. Its importance in advertising is expanding because these tools provide economical, effective, and adaptable means of producing a wide range of interesting and captivating materials.These kinds of solutions provide users with a variety of advantages, including quicker and more cost-effective image template production. 
+Regarding the process, I have consulted a number of web sources and including product pages. 
 
 ## Why 
 
-In order to address these two sub-research topics and find AI models or tools that meet the needs of my project, I choose this research approach. Using the approach to investigate this area of AI technology has been really illuminating. It gave me the opportunity to not only learn more about different tools but also to use them directly in experiments. My perspective has been broadened by this experience, and I now have useful knowledge about how to use these kinds of technologies. Most importantly, it has helped me comprehend the qualities of an efficient Text-to-Image (TTI) AI model, which is really helpful for my homework. It also provided me with a solid foundation on which to decide which two AI models to utilise for the A/B testing where I compered side by side the two models that i liked the most from this competitive analysis.
+In order to address the two sub-research questions and find AI model that would meet the needs of my project, I choose this research approach. Using the approach to investigate this area of AI technology has been really helpful to my skills. It gave me the opportunity to not only learn more about different tools but also to use them directly in the environment. My perspective has been broadened even more by this experience, and now I have useful knowledge about how to use these kinds of technologies. Most importantly, it has helped me comprehend the qualities of an efficient Text-to-Image (TTI) AI model. It also provided me with a solid foundation on deciding which two AI models to utilise for the A/B testing where I compered side by side the two models that i liked the most from this competitive analysis.
 
 ### Sub research questions
 Are there similar products on the market?
@@ -104,9 +104,12 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
      DeepArt. DeepArt. https://deepai.org/art
 
+## Evidence 
+
+[Competitive analysis](/docs/1st-Research-Phase-Evidence/Competitor%20analysis.md)
+
 ## Conclusion
 
- 
 To sum up, carrying out this competitive analysis has been a crucial component of my research and has greatly improved my comprehension of the state of AI text-to-image. I learned a lot about the essential components and specifications of an effective AI model for image production during this approach. Dall-e2 and Stable Diffusion stood up as being very noteworthy, with Stable Diffusion slightly differentiating itself with its capacity to produce remarkably lifelike visuals through sophisticated AI architecture.Even though the image generation isn't always reliable, the variety and calibre of services it offers make up for it.Conversely, Dall-e2 also made an impression on me because of its capacity to produce a wide variety of pictures, which makes it extremely adaptable to many content categories. Its appeal is increased by its easy-to-use interface. 
 Even though some of the images don't match the prompt that I supplied, overall the experience was excellent, and the product's overall quality and affordability make it a serious competitor in the market for AI image generators. 
 These two AI models really impressed me, and based on how similar they are, an A/B test will determine which of them is most appropriate.
