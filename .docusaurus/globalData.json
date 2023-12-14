@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "2nd Research Phase Evidence/AB Testing",
+              "path": "/docs/2nd Research Phase Evidence/AB Testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "2nd Research Phase Evidence/Competitor analysis",
               "path": "/docs/2nd Research Phase Evidence/Competitor analysis",
               "sidebar": "tutorialSidebar"
@@ -51,23 +56,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "2nd Research Phase Evidence/Frame the desing challenge",
-              "path": "/docs/2nd Research Phase Evidence/Frame the desing challenge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "2nd Research Phase Evidence/Overview",
-              "path": "/docs/2nd Research Phase Evidence/Overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "2nd Research Phase Evidence/Persona",
               "path": "/docs/2nd Research Phase Evidence/Persona",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "2nd Research Phase Evidence/Research Introduction",
-              "path": "/docs/2nd Research Phase Evidence/Research Introduction",
+              "id": "2nd Research Phase Evidence/Research framing",
+              "path": "/docs/2nd Research Phase Evidence/Research framing",
               "sidebar": "tutorialSidebar"
             },
             {

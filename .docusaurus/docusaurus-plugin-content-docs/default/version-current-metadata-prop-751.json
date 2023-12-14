@@ -190,22 +190,15 @@
       },
       {
         "type": "category",
-        "label": "2nd Research Phase",
+        "label": "2nd Research Phase Evidence",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Research Introduction",
-            "href": "/docs/2nd Research Phase Evidence/Research Introduction",
-            "docId": "2nd Research Phase Evidence/Research Introduction",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Competitor analysis",
-            "href": "/docs/2nd Research Phase Evidence/Competitor analysis",
-            "docId": "2nd Research Phase Evidence/Competitor analysis",
+            "label": "Research framing",
+            "href": "/docs/2nd Research Phase Evidence/Research framing",
+            "docId": "2nd Research Phase Evidence/Research framing",
             "unlisted": false
           },
           {
@@ -217,13 +210,6 @@
           },
           {
             "type": "link",
-            "label": "Frame the desing challenge",
-            "href": "/docs/2nd Research Phase Evidence/Frame the desing challenge",
-            "docId": "2nd Research Phase Evidence/Frame the desing challenge",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Persona",
             "href": "/docs/2nd Research Phase Evidence/Persona",
             "docId": "2nd Research Phase Evidence/Persona",
@@ -231,9 +217,16 @@
           },
           {
             "type": "link",
-            "label": "Overview",
-            "href": "/docs/2nd Research Phase Evidence/Overview",
-            "docId": "2nd Research Phase Evidence/Overview",
+            "label": "Competitor analysis",
+            "href": "/docs/2nd Research Phase Evidence/Competitor analysis",
+            "docId": "2nd Research Phase Evidence/Competitor analysis",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "AB Testing",
+            "href": "/docs/2nd Research Phase Evidence/AB Testing",
+            "docId": "2nd Research Phase Evidence/AB Testing",
             "unlisted": false
           }
         ]
@@ -302,7 +295,7 @@
     "1st-Research-Phase-Evidence/Competitor analysis": {
       "id": "1st-Research-Phase-Evidence/Competitor analysis",
       "title": "Competitor analysis",
-      "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for my project. My ability to research this field of AI technology has greatly benefited from using this method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
+      "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for the purpose of my project. My ability to research this field of AI technology has greatly benefited from using Competitive analysis method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
       "sidebar": "tutorialSidebar"
     },
     "1st-Research-Phase-Evidence/Customer Journey": {
@@ -329,6 +322,12 @@
       "description": "In the initial stages of my research, I made the decision to employ the CMD research methodology, starting with the Research Framing template. This decision was influenced by the comprehensive nature of the template, which was an effective method for framing the objectives, challenges, and critical factors at the start of my investigation. This foundational step was crucial as it laid out a clear roadmap for the entire research and development phase. By methodically addressing specific questions, I was able to gain a broad understanding of the direction I needed to pursue and the necessary actions to undertake.",
       "sidebar": "tutorialSidebar"
     },
+    "2nd Research Phase Evidence/AB Testing": {
+      "id": "2nd Research Phase Evidence/AB Testing",
+      "title": "AB Testing",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "2nd Research Phase Evidence/Competitor analysis": {
       "id": "2nd Research Phase Evidence/Competitor analysis",
       "title": "Competitor analysis",
@@ -338,19 +337,7 @@
     "2nd Research Phase Evidence/Customer Journey": {
       "id": "2nd Research Phase Evidence/Customer Journey",
       "title": "Customer Journey",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "2nd Research Phase Evidence/Frame the desing challenge": {
-      "id": "2nd Research Phase Evidence/Frame the desing challenge",
-      "title": "Frame the desing challenge",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "2nd Research Phase Evidence/Overview": {
-      "id": "2nd Research Phase Evidence/Overview",
-      "title": "Overview",
-      "description": "",
+      "description": "fefe",
       "sidebar": "tutorialSidebar"
     },
     "2nd Research Phase Evidence/Persona": {
@@ -359,10 +346,10 @@
       "description": "In my research on the integration of advanced voice-over generation in marketing platforms, I constructed two distinct personas: Christina, a marketing manager in a tech company, and Max, a freelance digital marketer. These personas were instrumental in deepening my understanding of the diverse needs and challenges faced by professionals in the marketing industry, particularly in the realm of creating compelling audio content.",
       "sidebar": "tutorialSidebar"
     },
-    "2nd Research Phase Evidence/Research Introduction": {
-      "id": "2nd Research Phase Evidence/Research Introduction",
-      "title": "Research Introduction",
-      "description": "",
+    "2nd Research Phase Evidence/Research framing": {
+      "id": "2nd Research Phase Evidence/Research framing",
+      "title": "Research framing",
+      "description": "Research Template",
       "sidebar": "tutorialSidebar"
     },
     "Development/Voice Over Generator": {

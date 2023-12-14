@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 In my research on the integration of advanced voice-over generation in marketing platforms, I constructed two distinct personas: Christina, a marketing manager in a tech company, and Max, a freelance digital marketer. These personas were instrumental in deepening my understanding of the diverse needs and challenges faced by professionals in the marketing industry, particularly in the realm of creating compelling audio content.
 

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c15'),
+    component: ComponentCreator('/docs', '712'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '650'),
+        component: ComponentCreator('/docs', '41a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '259'),
+            component: ComponentCreator('/docs', '6cb'),
             routes: [
               {
                 path: '/docs/',
@@ -97,6 +97,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/2nd Research Phase Evidence/AB Testing',
+                component: ComponentCreator('/docs/2nd Research Phase Evidence/AB Testing', '842'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/2nd Research Phase Evidence/Competitor analysis',
                 component: ComponentCreator('/docs/2nd Research Phase Evidence/Competitor analysis', '044'),
                 exact: true,
@@ -109,26 +115,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/2nd Research Phase Evidence/Frame the desing challenge',
-                component: ComponentCreator('/docs/2nd Research Phase Evidence/Frame the desing challenge', 'eef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/2nd Research Phase Evidence/Overview',
-                component: ComponentCreator('/docs/2nd Research Phase Evidence/Overview', 'c10'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/2nd Research Phase Evidence/Persona',
                 component: ComponentCreator('/docs/2nd Research Phase Evidence/Persona', '45b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/2nd Research Phase Evidence/Research Introduction',
-                component: ComponentCreator('/docs/2nd Research Phase Evidence/Research Introduction', '105'),
+                path: '/docs/2nd Research Phase Evidence/Research framing',
+                component: ComponentCreator('/docs/2nd Research Phase Evidence/Research framing', 'f51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
