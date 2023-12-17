@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '712'),
+    component: ComponentCreator('/docs', 'e04'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '41a'),
+        component: ComponentCreator('/docs', 'e9c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6cb'),
+            component: ComponentCreator('/docs', '6a7'),
             routes: [
               {
                 path: '/docs/',
@@ -129,6 +129,12 @@ export default [
               {
                 path: '/docs/Development/Voice Over Generator',
                 component: ComponentCreator('/docs/Development/Voice Over Generator', 'cd3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Project plan',
+                component: ComponentCreator('/docs/Project plan', 'f4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

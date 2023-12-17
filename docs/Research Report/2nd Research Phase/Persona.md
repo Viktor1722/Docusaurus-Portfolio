@@ -24,6 +24,8 @@ Christina's persona, representing a seasoned marketing professional in a corpora
 ### Max's Perspectives
 Max's persona, embodying the dynamic and multifaceted world of freelance digital marketing, underscored the necessity for accessible, high-quality voice-over technology. His challenges - budget constraints, limited access to diverse voice talent, limited audio equipment, and the need to balance creative work with administrative tasks - resonated with a significant segment of the market. The voice-over generation feature would be a game-changer for freelancers like Max, offering them the ability to produce professional-grade audio content quickly and affordably, thus elevating their service offerings and competitive edge.
 
+## [Evidence](/docs/2nd%20Research%20Phase%20Evidence/Persona.md)
+
 ## Conclusion
 The insights gained from these personas have been pivotal in shaping the development of the voice-over generation feature. This feature is poised to revolutionize the marketing industry by giving access to high-quality voice-overs, enabling professionals and freelancers alike to produce diverse and engaging audio content effortlessly. It addresses a critical gap in the current market, where the production of quality voice content is often hindered by cost, time, and resource limitations.
 

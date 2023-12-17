@@ -10,8 +10,8 @@ The map revealed that users are eager for solutions that simplify their work lif
 The research journey has been quite enlightening. Understanding that users are looking for tools that save time and let them dive deeper into their creative marketing strategies has been a valuable discovery. It's rewarding to know that by speeding up the template creation process, we're not just improving an app feature we're helping users free up their creative energies for their marketing efforts. It feels good to work on something that'll make a user's task smoother and let them channel their time and thoughts into where it matters most: their marketing campaigns.
 
 If you want to learn more about the process and insight form the customer journey you can go to the research document 
-## More information
-[Back to the research document-Customer journey map](../Research%20Report/1st%20Research%20Phase/Customer%20Journey.md)
+
+## [More information](../Research%20Report/1st%20Research%20Phase/Customer%20Journey.md)
 ##
 
 ![Customer Journey map](../img/customerJourney.png)

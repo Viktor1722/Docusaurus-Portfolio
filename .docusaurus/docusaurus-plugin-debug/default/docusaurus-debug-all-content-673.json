@@ -204,7 +204,7 @@
             {
               "id": "2nd Research Phase Evidence/Competitor analysis",
               "title": "Competitor analysis",
-              "description": "",
+              "description": "This research delves into the AI voiceover market, specifically analyzing key competitors providing text-to-speech services for advertising. It uncovers strengths, weaknesses, and areas for innovation among these platforms, benefiting my project.",
               "source": "@site/docs/2nd Research Phase Evidence/Competitor analysis.md",
               "sourceDirName": "2nd Research Phase Evidence",
               "slug": "/2nd Research Phase Evidence/Competitor analysis",
@@ -231,7 +231,7 @@
             {
               "id": "2nd Research Phase Evidence/Customer Journey",
               "title": "Customer Journey",
-              "description": "Following the",
+              "description": "Following the completion of the research template i once more created a",
               "source": "@site/docs/2nd Research Phase Evidence/Customer Journey.md",
               "sourceDirName": "2nd Research Phase Evidence",
               "slug": "/2nd Research Phase Evidence/Customer Journey",
@@ -352,6 +352,33 @@
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Project plan",
+                "permalink": "/docs/Project plan"
+              }
+            },
+            {
+              "id": "Project plan",
+              "title": "Project plan",
+              "description": "",
+              "source": "@site/docs/Project plan.md",
+              "sourceDirName": ".",
+              "slug": "/Project plan",
+              "permalink": "/docs/Project plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Project plan.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/"
+              },
               "next": {
                 "title": "Introduction",
                 "permalink": "/docs/Research Report/1st Research Phase/Introduction"
@@ -484,8 +511,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/"
+                "title": "Project plan",
+                "permalink": "/docs/Project plan"
               },
               "next": {
                 "title": "Research framing",
@@ -810,6 +837,10 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "Project plan"
               },
               {
                 "type": "category",

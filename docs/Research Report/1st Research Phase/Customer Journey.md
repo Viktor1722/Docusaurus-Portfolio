@@ -21,9 +21,7 @@ With the help of this customer journey mapping, users' interactions with the too
 
 The map demonstrated how much users want tools that make their professional work easier. Their real interest is in planning and executing marketing strategies, so being able to move swiftly through the template creation and ad development processes frees up more time and energy. People are looking for an easy-to-use method that handles the complications of intricate design work, which will reduce frustration and foster greater creativity. This shift in emphasis from the details of design to a broader focus on marketing strategy may result in more creative and impactful campaign concepts.
 
-## Evidence 
-
-[Customer journey map](/docs/1st-Research-Phase-Evidence/Customer%20Journey.md)
+## [Evidence ](/docs/1st-Research-Phase-Evidence/Customer%20Journey.md)
 
 ## Conclusion
 I was able to see current trends and challenges more clearly through industry analysis, which was very helpful in figuring out how Template Designer could meet and surpass industry needs. Analysing the user's steps similarly gave me a clear picture of the areas in which the product could succeed and set itself apart. Not only did this methodical approach help me answer the sub-questions, but it also helped me match the product development to the needs and expectations of the real world. By emphasising these features, I was able to gain a deeper understanding of what people look for in these kinds of tools and make sure that the product is both competitive and genuinely appealing to our intended market. 

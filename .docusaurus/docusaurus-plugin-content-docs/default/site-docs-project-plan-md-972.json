@@ -1,0 +1,27 @@
+{
+  "id": "Project plan",
+  "title": "Project plan",
+  "description": "",
+  "source": "@site/docs/Project plan.md",
+  "sourceDirName": ".",
+  "slug": "/Project plan",
+  "permalink": "/docs/Project plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Project plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/Research Report/1st Research Phase/Introduction"
+  }
+}

@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Project plan",
+              "path": "/docs/Project plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Research Report/1st Research Phase/AB Testing",
               "path": "/docs/Research Report/1st Research Phase/AB Testing",
               "sidebar": "tutorialSidebar"

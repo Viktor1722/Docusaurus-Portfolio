@@ -18,5 +18,4 @@ As a social media coordinator, Maya brought attention to the particular difficul
 
 In conclusion, the demands and difficulties revealed by Carlos and Maya's personalities ensure even more the need implementation of a text-to-image AI model, which is expected to have a significant influence on the design tool market. It will make it possible to create visual material more creatively, effectively, and adaptably, meeting the changing needs of the social media and advertising industries.
 
-### More information
-[Back to the research document-Personas](../Research%20Report/1st%20Research%20Phase/Persona.md)
+## [More information](../Research%20Report/1st%20Research%20Phase/Persona.md)

@@ -13,7 +13,7 @@ Regarding the process, I have consulted a number of web sources and including pr
 
 ## Why 
 
-In order to address the two sub-research questions and find AI model that would meet the needs of my project, I choose this research approach. Using the approach to investigate this area of AI technology has been really helpful to my skills. It gave me the opportunity to not only learn more about different tools but also to use them directly in the environment. My perspective has been broadened even more by this experience, and now I have useful knowledge about how to use these kinds of technologies. Most importantly, it has helped me comprehend the qualities of an efficient Text-to-Image (TTI) AI model. It also provided me with a solid foundation on deciding which two AI models to utilise for the A/B testing where I compered side by side the two models that i liked the most from this competitive analysis.
+In order to address the two sub-research questions and find AI model that would meet the needs of my project, I choose this research approach. Using the approach to investigate this area of AI technology has been really helpful to my skills. It gave me the opportunity to not only learn more about different tools but also to use them directly in the environment. My perspective has been broadened even more by this experience, and now I have useful knowledge about how to use these kinds of technologies. Most importantly, it has helped me comprehend the qualities of an efficient Text-to-Image (TTI) AI model. It also provided me with a solid foundation on deciding which two AI models to utilize for the A/B testing where I compered side by side the two models that i liked the most from this competitive analysis.
 
 ### Sub research questions
 Are there similar products on the market?
@@ -37,7 +37,7 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
     **Strengths:** Exceptional creativity and versatility, able to produce highly detailed and imaginative images based on complex prompts.
 
-     **Weaknesses:** Limited public access to the full version, potential for misinterpretation of prompts, and ethical concerns regarding generated content.
+     **Weaknesses:** Potential for misinterpretation of prompts, and ethical concerns regarding generated content.
 
      OpenAI. DALL-E 2. https://labs.openai.com/
 
@@ -104,9 +104,7 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
      DeepArt. DeepArt. https://deepai.org/art
 
-## Evidence 
-
-[Competitive analysis](/docs/1st-Research-Phase-Evidence/Competitor%20analysis.md)
+## [Evidence ](/docs/1st-Research-Phase-Evidence/Competitor%20analysis.md)
 
 ## Conclusion
 

@@ -17,6 +17,13 @@
         "unlisted": false
       },
       {
+        "type": "link",
+        "label": "Project plan",
+        "href": "/docs/Project plan",
+        "docId": "Project plan",
+        "unlisted": false
+      },
+      {
         "type": "category",
         "label": "Research Report",
         "collapsible": true,
@@ -331,13 +338,13 @@
     "2nd Research Phase Evidence/Competitor analysis": {
       "id": "2nd Research Phase Evidence/Competitor analysis",
       "title": "Competitor analysis",
-      "description": "",
+      "description": "This research delves into the AI voiceover market, specifically analyzing key competitors providing text-to-speech services for advertising. It uncovers strengths, weaknesses, and areas for innovation among these platforms, benefiting my project.",
       "sidebar": "tutorialSidebar"
     },
     "2nd Research Phase Evidence/Customer Journey": {
       "id": "2nd Research Phase Evidence/Customer Journey",
       "title": "Customer Journey",
-      "description": "Following the",
+      "description": "Following the completion of the research template i once more created a",
       "sidebar": "tutorialSidebar"
     },
     "2nd Research Phase Evidence/Persona": {
@@ -362,6 +369,12 @@
       "id": "intro",
       "title": "Introduction",
       "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, sharing code snippets, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Project plan": {
+      "id": "Project plan",
+      "title": "Project plan",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Research Report/1st Research Phase/AB Testing": {

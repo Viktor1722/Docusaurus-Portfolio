@@ -41,3 +41,5 @@ I have chosen this research approach to address the two sub-research questions a
     Focused on turning photos into artworks based on various famous styles, DeepArt uses a neural network to reimagine images in the style of famous artists.
 
     ![DeepArt](../img/DeepArt.png)
+
+## [More information](../Research%20Report/1st%20Research%20Phase/Competitive%20analysis.md)

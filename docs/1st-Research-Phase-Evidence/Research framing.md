@@ -12,8 +12,7 @@ Engaging with the thought-provoking queries of the template was particularly ins
 
 The template's application in the initial phase paved the way for a methodical, informed approach to the problem. It transcended mere understanding, empowering me to challenge preconceived notions and investigate innovative solutions with a holistic view. This approach not only bolstered my confidence in navigating the research but also significantly influenced our subsequent strategies, steering them towards a more deliberate and knowledge-driven path.
 
-### More information
-[Back to the research document-Research framing template](../Research%20Report/1st%20Research%20Phase/Research%20framing.md)
+## [More information](../Research%20Report/1st%20Research%20Phase/Research%20framing.md)
 #
 ![Image of the template](../img/designChallenge.png)
 

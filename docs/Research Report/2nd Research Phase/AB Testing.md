@@ -50,7 +50,9 @@ Testing ElevenLabs left me quite impressed with the voice quality, it was so cle
 **Play.ht:** Provides comprehensive API documentation, making it easier for developers to integrate the service into applications. The API is well-documented, with clear instructions and support.
 
 **ElevenLabs:** Also offers an API, but the documentation and developer support might not be as extensive as Play.ht. Suitable for projects where intricate voice quality is paramount, and the developer has experience in integrating similar APIs.
-## Conclusion 
 
+## [Evidence](/docs/2nd%20Research%20Phase%20Evidence/AB%20Testing.md)
+
+## Conclusion 
 
 In conclusion, after thorough evaluation, I believe both AI models, ElevenLabs and Play.ht, are exceptional tools for generating voice-over audio scripts, each excelling in its unique way. They both provide a broad array of voices and customizable settings, allowing for significant personalization of the audio output. While Play.ht offers versatility and a user-friendly experience, ElevenLabs stands out for its superior voice quality, which is remarkably clear and lifelike, and its proficiency in handling complex languages. Moreover, ElevenLabs' advanced voice cloning feature, particularly demonstrated in my successful replication of Ice Cube's voice, sets it apart. Given these compelling advantages, I lean towards ElevenLabs as my preferred choice for producing high-quality, realistic voice-overs, especially in scenarios demanding nuanced language handling and deep customization.

@@ -13,9 +13,7 @@ Carlos, is a creative director at an advertising agency, brought to light the in
 ## Maya Patel's Perspectives:
 Maya,is working as a social media coordinator, highlighting the unique challenges faced in the dynamic world of social media marketing. Her struggle with creating fresh, brand-aligned visual content quickly and efficiently underlines the potential impact of the text-to-image AI model. This tool would empower Maya to produce diverse, captivating visuals without needing advanced design skills, aligning with the rapid content turnaround required in social media. It presents an opportunity to maintain a consistent and engaging visual presence online without much design skills, which is crucial for brand visibility and audience engagement.
 
-## Evidence 
-
-[Personas](/docs/1st-Research-Phase-Evidence/Persona.md)
+## [Evidence](/docs/1st-Research-Phase-Evidence/Persona.md)
 
 ## Impact on the Industry:
 The insights from Carlos and Maya were instrumental in shaping the development and integration of the text-to-image AI model. This feature is set to transform how professionals in advertising and social media marketing create visual content. By automating the initial stages of the design process, it allows for a more efficient use of resources, enabling professionals to focus on strategy and fine-tuning or other aspects of their work.

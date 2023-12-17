@@ -11,6 +11,9 @@ The AI voiceover market is rapidly evolving, driven by advances in text-to-speec
 In terms of the methodology that i have used several online resources such as articles, product pages and relevance to advertising campaign production analyzing. 
 
 ## Why 
+
+I selected this research approach to identify AI models or tools that align with my project's requirements and answer these two sub-research questions. Exploring this segment of AI technology through this method has been incredibly enlightening. It not only allowed me to gain a deeper understanding of various tools but also to experiment with them firsthand. This experience has enriched my perspective, providing me with practical knowledge about the usage of such tools. Importantly, it has offered me a clearer understanding of the characteristics that define an effective Text-to-Speech (TTS) AI model, which is invaluable for my assignment. Furthermore it gave me a great base for coming to a conclusion which two Ai models are going to be used for the A/B testing where i compered side by side the two models that i liked the most from this competitive analysis.
+
 ### Sub research questions
 Are there similar products on the market?
 
@@ -22,14 +25,11 @@ Market Research: Conduct thorough market research to identify competing products
 
 Feature Analysis: Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
-
-I selected this research approach to identify AI models or tools that align with my project's requirements and answer these two sub-research questions. Exploring this segment of AI technology through this method has been incredibly enlightening. It not only allowed me to gain a deeper understanding of various tools but also to experiment with them firsthand. This experience has enriched my perspective, providing me with practical knowledge about the usage of such tools. Importantly, it has offered me a clearer understanding of the characteristics that define an effective Text-to-Speech (TTS) AI model, which is invaluable for my assignment. Furthermore it gave me a great base for coming to a conclusion which two Ai models are going to be used for the A/B testing where i compered side by side the two models that i liked the most from this competitive analysis.
-
 ## Comparison 
 
-1. ## Adthos
+1. ## Resemble.Ai
 
-    **Description:** Adthos provides a platform for generating scripts for audio ads, including voice overs, sound effects, and music. It uses OpenAI's GPT-4 for script generation and has a library of synthetic voices. 
+    **Description:** Resemble.Ai provides a platform for generating scripts for audio ads, including voice overs, sound effects, and music. It uses OpenAI's GPT-4 for script generation and has a library of synthetic voices. 
 
     **Strengths:** Offers a fully produced ad, with options for editing via a browser-based, multi-track editor.
     Features a mix of in-house tech and third-party APIs.
@@ -113,11 +113,9 @@ I selected this research approach to identify AI models or tools that align with
 
      Play.ht. (n.d.). Main and Super realistic voices. Play.ht.https://play.ht/products/ai-voiceover-generator-online/
 
-
+## [Evidence](/docs/2nd%20Research%20Phase%20Evidence/Competitor%20analysis.md)
 
 ## Conclusion
-
  
 In summary, conducting this competitive analysis has been an essential part of my research, significantly enhancing my understanding of the AI voiceover landscape. Through this process, I gained valuable insights into the key features and requirements for a successful text-to-speech AI model. ElevenLabs and Play.ht emerged as particularly notable, with ElevenLabs standing out with its ability to generate very realistic speech using advanced AI models. offering a wide range of languages and voices, coupled with precision tuning for clarity and animated delivery. Its VoiceLab feature for creating unique synthetic voices was especially notable. Although it's a bit costly, the quality and range of services it provides justify the price.On the other side Play.ht also impressed me with its vast selection of over 907 AI voices in more than 142 languages, making it highly versatile for different content types. Its user-friendly interface and customization options add to its appeal. While some voices may sound slightly robotic, the overall quality and cost-effectiveness make it a strong contender in the AI voiceover market. 
 These two Ai models impressed me a lot and judging by their close proximity they will be put through a A/B testing to decide which model will be the most suitable one 
-

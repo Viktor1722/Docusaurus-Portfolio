@@ -68,6 +68,8 @@ Stable Diffusion: Stable Diffusion’s API is designed to be accessible to devel
 
 Dall-e2: DALL-E 2's API documentation is detailed and well-structured, providing developers with clear guidelines on integration and usage. OpenAI typically ensures that their documentation is thorough and up-to-date.
 
+## [Evidence](/docs/1st-Research-Phase-Evidence/AB%20Testing.md)
+
 ## Conclusion 
 
 In summary, both DALL-E 2 and Stable Diffusion exhibit impressive creative capabilities in their interpretations. While Stable Diffusion occasionally strays from the given prompts, it stands out for its artistic flair and abstract renderings, creating images that are both unique and visually captivating. On the other hand, DALL-E 2 is distinguished by its ability to artfully balance creativity with precise and consistent interpretations aligned with the prompts. However, given my specific project needs, which don't prioritize photorealistic imagery, I find Stable Diffusion to be a more suitable choice. Its strength in producing artistically rich and abstract visuals aligns better with my objectives. Looking ahead, the anticipated release of DALL-E 3 holds promise for an even tighter competition, potentially offering advancements that could further blur the lines in choosing between these two remarkable tools.
