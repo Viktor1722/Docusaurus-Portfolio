@@ -4,9 +4,13 @@ sidebar_position: 1
 
 Following a discussion with my mentor and several developers about the complexities of my previous assignment, they quickly needed to devise a new task for me, considering I was already in week 5 with limited time left for research and initiating the coding phase.
 
-## Problem Opportunity 
+## Problem / Opportunity 
 
-A couple of days later, my mentor acquainted me with Cape's current key product, the Campaign Designer. This extensive platform enables users to design, publish, and monitor their marketing campaigns. It's equipped with numerous processes and tools used regularly by its users. My new challenge was to identify a method to automate and enhance a specific function within this platform — the creation of voice-over scripts, once again employing AI technology.
+A few days later, my mentor introduced me to Cape's main product, the Campaign Designer. This is a big platform that helps users create, publish, and keep track of their marketing campaigns. It's filled with variety of features and tools that people use during their work process. My new task was to introduce a new feature using AI technology — turning written text into voice-over audio files.
+
+The opportunity here was really from a great value. By adding this feature to the Campaign Designer that could turn written words into audio file using AI, I could provide users with a much easier and simplified way to create voice-over audio content for their needs. By providing users with such kind of feature clients could make voice-overs audio, without the need of a real person and expensive audio equipment to record them.
+
+Furthermore it would also be great for people who make content for different markets to provide them with a Ai model that is multilingual. By making it simpler to create these audio files, Cape's platform would become even more useful and could attract more users. This new feature could make the company stand out in the market and help it grow.
 
 ## Goal 
 
@@ -14,10 +18,9 @@ This project focused on exploring and discovering ways to automate the creation 
 
 ## Approach 
 
-In order to address the research issues outlined in the project plan, I choose to employ the CMD research methods. I'll start by using a research form with thoughtfully thought-out questions on it. The purpose of these questions is to promote in-depth contemplation on various aspects, including potential obstacles and significant problems that may come up during the investigation. This form will also be very important in helping me understand the assignment's subject matter better.
+In order to address the research issues outlined in the project plan, I choose to employ the CMD research methods. I'll start by using a research form with thoughtful questions in it. The purpose of these questions was to promote in-depth contemplation on various aspects, including potential obstacles and significant problems that may come up during the investigation. This form was also very important in helping me understand the assignment's subject matter better then i expected.
 
 In order to precisely identify our target audience, I then intend to construct personas. These personas are essential for creating an efficient user interface and for comprehending the typical users of the application. They will also assist me in assessing the potential industry impact of the Campaign Designer.
-
 
 After that, I'll start creating a customer journey map that will describe the normal user experience both before and after they interact with the product. In addition to guiding me through the user's journey, this map will point out particular places that require further focus during development.
 

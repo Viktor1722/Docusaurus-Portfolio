@@ -6,12 +6,12 @@ In my research on the integration of advanced voice-over generation in marketing
 ## Christina's Insights:
 Christina's persona, representing a seasoned marketing professional in a corporate setting, highlighted the need for an all-encompassing tool that could streamline the creation, launch, and tracking of marketing campaigns. His pain points, such as the difficulty in sourcing professional voice talent and the desire for efficient multilingual content production, emphasized the potential of a voice-over generation feature. This feature would not only simplify the production process but also open up new avenues for creative content, thereby enhancing the effectiveness and reach of marketing campaigns.
 
-
+![Christina Persona](../img/voiceOverPersona1.svg)
 
 ## Max's Perspectives:
 Max's persona, embodying the dynamic and multifaceted world of freelance digital marketing, underscored the necessity for accessible, high-quality voice-over technology. His challenges - budget constraints, limited access to diverse voice talent, and the need to balance creative work with administrative tasks - resonated with a significant segment of the market. The voice-over generation feature would be a game-changer for freelancers like Max, offering them the ability to produce professional-grade audio content quickly and affordably, thus elevating their service offerings and competitive edge.
 
-
+![Max Persona](../img/voiceOverPersona2.svg)
 
 ## Impact on the Industry:
 The insights gained from these personas have been pivotal in shaping the development of the voice-over generation feature. This feature is poised to revolutionize the marketing industry by giving access to high-quality voice-overs, enabling professionals and freelancers alike to produce diverse and engaging audio content effortlessly. It addresses a critical gap in the current market, where the production of quality voice content is often hindered by cost, time, and resource limitations.
