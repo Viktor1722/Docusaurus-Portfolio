@@ -69,7 +69,7 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
      **Strengths:** User-friendly interface, suitable for users without deep technical knowledge. Offers a range of models for different styles and applications.
 
-     **Weaknesses:** Limited by the models available on the platform, and the quality of outputs can vary depending on the chosen model.
+     **Weaknesses:** Limited by the models available on the platn vary depending on the chosen model.form, and the quality of outputs ca
 
      RunwayML. RunwayML. https://runwayml.com/
 
