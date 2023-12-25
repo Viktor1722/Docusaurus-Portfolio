@@ -44,19 +44,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e04'),
+    component: ComponentCreator('/docs', '670'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e9c'),
+        component: ComponentCreator('/docs', 'c72'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6a7'),
+            component: ComponentCreator('/docs', '5d1'),
             routes: [
               {
                 path: '/docs/',
-                component: ComponentCreator('/docs/', 'f14'),
+                component: ComponentCreator('/docs/', '1c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -129,6 +129,12 @@ export default [
               {
                 path: '/docs/Development/Voice Over Generator',
                 component: ComponentCreator('/docs/Development/Voice Over Generator', 'cd3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '2a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

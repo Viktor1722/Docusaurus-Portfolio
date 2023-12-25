@@ -2,7 +2,7 @@
 
 As you can see from this direct comparison that both models are capable of generating amazing images the picture on the left which is from Stable Diffusion and you ca straight away see that the model is going for making the image more realistic by adding reflections and shadows based on the light. On the other side Dall-e2 went for more artistic result with warmer colors and more contrast in the colors.
 
-When it comes to the textures and details both images have details, however Stable Diffusion does the task a bit better thanks to the lighting which highlights even the smallest of details in the texture of the orange 
+When it comes to the textures and details both images have details, however Stable Diffusion does the task a bit better thanks to the lighting which highlights even the smallest of details in the texture of the orange.
 
 ![Stable diffusion](../img/AB%20TestingStabelDiff2.png) 
 ![Dall-e](../img/Ab%20TestingDalle1%201.svg)

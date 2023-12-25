@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Reading Guide",
           "docs": [
             {
               "id": "1st-Research-Phase-Evidence/AB Testing",
@@ -72,12 +72,17 @@
             },
             {
               "id": "intro",
-              "path": "/docs/",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Project plan",
               "path": "/docs/Project plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Reading Guide",
+              "path": "/docs/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -171,7 +176,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/docs/",
-                "label": "intro"
+                "label": "Reading Guide"
               }
             }
           }

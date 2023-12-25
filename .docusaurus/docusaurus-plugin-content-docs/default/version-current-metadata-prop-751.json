@@ -11,8 +11,15 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Introduction",
+        "label": "Table of contents",
         "href": "/docs/",
+        "docId": "Reading Guide",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -375,6 +382,12 @@
       "id": "Project plan",
       "title": "Project plan",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Reading Guide": {
+      "id": "Reading Guide",
+      "title": "Table of contents",
+      "description": "1. Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Research Report/1st Research Phase/AB Testing": {
