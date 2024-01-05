@@ -197,8 +197,8 @@
                 "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis"
               },
               "next": {
-                "title": "Voice Over Generator",
-                "permalink": "/docs/Development/Voice Over Generator"
+                "title": "AI assistant",
+                "permalink": "/docs/Development/AI assistant"
               }
             },
             {
@@ -310,16 +310,16 @@
               }
             },
             {
-              "id": "Development/Voice Over Generator",
-              "title": "Voice Over Generator",
-              "description": "",
-              "source": "@site/docs/Development/Voice Over Generator.md",
+              "id": "Development/AI assistant",
+              "title": "AI assistant",
+              "description": "Problem / Opportunity",
+              "source": "@site/docs/Development/AI assistant.md",
               "sourceDirName": "Development",
-              "slug": "/Development/Voice Over Generator",
-              "permalink": "/docs/Development/Voice Over Generator",
+              "slug": "/Development/AI assistant",
+              "permalink": "/docs/Development/AI assistant",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Development/Voice Over Generator.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Development/AI assistant.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -329,8 +329,8 @@
                 "permalink": "/docs/2nd Research Phase Evidence/AB Testing"
               },
               "next": {
-                "title": "Results",
-                "permalink": "/docs/Testing/Results"
+                "title": "Ai assistant results",
+                "permalink": "/docs/Testing/Ai assistant results"
               }
             },
             {
@@ -430,8 +430,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Competitive analysis",
-                "permalink": "/docs/Research Report/1st Research Phase/Competitive analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/Research Report/1st Research Phase/Comparison chart"
               },
               "next": {
                 "title": "Conclusion",
@@ -439,16 +439,16 @@
               }
             },
             {
-              "id": "Research Report/1st Research Phase/Competitive analysis",
-              "title": "Competitive analysis",
+              "id": "Research Report/1st Research Phase/Comparison chart",
+              "title": "Comparison chart",
               "description": "Introduction",
-              "source": "@site/docs/Research Report/1st Research Phase/Competitive analysis.md",
+              "source": "@site/docs/Research Report/1st Research Phase/Comparison chart.md",
               "sourceDirName": "Research Report/1st Research Phase",
-              "slug": "/Research Report/1st Research Phase/Competitive analysis",
-              "permalink": "/docs/Research Report/1st Research Phase/Competitive analysis",
+              "slug": "/Research Report/1st Research Phase/Comparison chart",
+              "permalink": "/docs/Research Report/1st Research Phase/Comparison chart",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/1st Research Phase/Competitive analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/1st Research Phase/Comparison chart.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -468,7 +468,7 @@
             {
               "id": "Research Report/1st Research Phase/Conclusion",
               "title": "Conclusion",
-              "description": "With two weeks dedicated to research, I quickly grasped the complex nature of the task at hand. Utilizing the CMD Research methods, the depth of the challenge became evident. Balancing the available time, my skillset, and the hardware capabilities during my internship, I realized that completing the task was beyond reach since Cape wanted this visual Ai model to be trained which required serious skill set and powerful pc. This realization led me to discuss the project's feasibility with my internship mentor. Upon presenting my findings and concerns, he understood my perspective. Our subsequent consultations with experienced developers from the company showed that the task was very optimistic indeed. The sheer magnitude of the assignment became clear to both of us, prompting a reconsideration of my assignment.",
+              "description": "The research proved extremely valuable, as it helped me understand the task assigned by Cape thanks to CMD research methods. By framing the research, I gained a deeper insight into the assignment's underlying concept and what was expected as the final deliverable. The customer journey map was particularly useful. It allowed me to view the template generator from the user's perspective, understanding their needs and experiences.",
               "source": "@site/docs/Research Report/1st Research Phase/Conclusion.md",
               "sourceDirName": "Research Report/1st Research Phase",
               "slug": "/Research Report/1st Research Phase/Conclusion",
@@ -569,8 +569,8 @@
                 "permalink": "/docs/Research Report/1st Research Phase/Customer Journey"
               },
               "next": {
-                "title": "Competitive analysis",
-                "permalink": "/docs/Research Report/1st Research Phase/Competitive analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/Research Report/1st Research Phase/Comparison chart"
               }
             },
             {
@@ -804,6 +804,30 @@
               "previous": {
                 "title": "Teacher Meetings",
                 "permalink": "/docs/Semester Reflection/Teacher Meetings"
+              },
+              "next": {
+                "title": "MidTerm",
+                "permalink": "/docs/Semester Reflection/MidTerm"
+              }
+            },
+            {
+              "id": "Semester Reflection/MidTerm",
+              "title": "MidTerm",
+              "description": "In week 10, I got the chance to showcase my university evaluators about my work so far in my internship, during an event called the MidTerm review. This involved giving a brief presentation and then answering questions.",
+              "source": "@site/docs/Semester Reflection/MidTerm.md",
+              "sourceDirName": "Semester Reflection",
+              "slug": "/Semester Reflection/MidTerm",
+              "permalink": "/docs/Semester Reflection/MidTerm",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/MidTerm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Company meetings",
+                "permalink": "/docs/Semester Reflection/Company meetings"
               }
             },
             {
@@ -825,8 +849,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Results",
-                "permalink": "/docs/Testing/Results"
+                "title": "Voice over results",
+                "permalink": "/docs/Testing/Voice over results"
               },
               "next": {
                 "title": "Company meetings",
@@ -834,23 +858,71 @@
               }
             },
             {
-              "id": "Testing/Results",
-              "title": "Results",
+              "id": "Testing/Ai assistant results",
+              "title": "Ai assistant results",
               "description": "",
-              "source": "@site/docs/Testing/Results.md",
+              "source": "@site/docs/Testing/Ai assistant results.md",
               "sourceDirName": "Testing",
-              "slug": "/Testing/Results",
-              "permalink": "/docs/Testing/Results",
+              "slug": "/Testing/Ai assistant results",
+              "permalink": "/docs/Testing/Ai assistant results",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Results.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Ai assistant results.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Voice Over Generator",
-                "permalink": "/docs/Development/Voice Over Generator"
+                "title": "AI assistant",
+                "permalink": "/docs/Development/AI assistant"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/Testing/Introduction"
+              }
+            },
+            {
+              "id": "Testing/Introduction",
+              "title": "Introduction",
+              "description": "Goal",
+              "source": "@site/docs/Testing/Introduction.md",
+              "sourceDirName": "Testing",
+              "slug": "/Testing/Introduction",
+              "permalink": "/docs/Testing/Introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ai assistant results",
+                "permalink": "/docs/Testing/Ai assistant results"
+              },
+              "next": {
+                "title": "Voice over results",
+                "permalink": "/docs/Testing/Voice over results"
+              }
+            },
+            {
+              "id": "Testing/Voice over results",
+              "title": "Voice over results",
+              "description": "",
+              "source": "@site/docs/Testing/Voice over results.md",
+              "sourceDirName": "Testing",
+              "slug": "/Testing/Voice over results",
+              "permalink": "/docs/Testing/Voice over results",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Voice over results.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/Testing/Introduction"
               },
               "next": {
                 "title": "Teacher Meetings",
@@ -881,7 +953,7 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "1st Research Phase",
+                    "label": "1st Research Phase/Template generation",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -903,7 +975,7 @@
                       },
                       {
                         "type": "doc",
-                        "id": "Research Report/1st Research Phase/Competitive analysis"
+                        "id": "Research Report/1st Research Phase/Comparison chart"
                       },
                       {
                         "type": "doc",
@@ -917,7 +989,7 @@
                   },
                   {
                     "type": "category",
-                    "label": "2nd Research Phase",
+                    "label": "2nd Research Phase/Voice Over generation",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -1021,7 +1093,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Development/Voice Over Generator"
+                    "id": "Development/AI assistant"
                   }
                 ]
               },
@@ -1033,7 +1105,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Testing/Results"
+                    "id": "Testing/Ai assistant results"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Testing/Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Testing/Voice over results"
                   }
                 ]
               },
@@ -1050,6 +1130,10 @@
                   {
                     "type": "doc",
                     "id": "Semester Reflection/Company meetings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Semester Reflection/MidTerm"
                   }
                 ]
               }

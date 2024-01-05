@@ -66,8 +66,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Development/Voice Over Generator",
-              "path": "/docs/Development/Voice Over Generator",
+              "id": "Development/AI assistant",
+              "path": "/docs/Development/AI assistant",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -91,8 +91,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Research Report/1st Research Phase/Competitive analysis",
-              "path": "/docs/Research Report/1st Research Phase/Competitive analysis",
+              "id": "Research Report/1st Research Phase/Comparison chart",
+              "path": "/docs/Research Report/1st Research Phase/Comparison chart",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -161,13 +161,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Semester Reflection/MidTerm",
+              "path": "/docs/Semester Reflection/MidTerm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Semester Reflection/Teacher Meetings",
               "path": "/docs/Semester Reflection/Teacher Meetings",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Testing/Results",
-              "path": "/docs/Testing/Results",
+              "id": "Testing/Ai assistant results",
+              "path": "/docs/Testing/Ai assistant results",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Testing/Introduction",
+              "path": "/docs/Testing/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Testing/Voice over results",
+              "path": "/docs/Testing/Voice over results",
               "sidebar": "tutorialSidebar"
             }
           ],

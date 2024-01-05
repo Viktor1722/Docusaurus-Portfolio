@@ -49,22 +49,22 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-670": {
+  "/docs-5a2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docscf-1-a8f"
     }
   },
-  "/docs-c72": {
+  "/docs-1d0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-5d1": {
+  "/docs-b01": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-1c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-reading-guide-51-e-4d8"
+    "content": "content---docs-51-e-805"
   },
   "/docs/1st-Research-Phase-Evidence/AB Testing-ec8": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -110,13 +110,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-2nd-research-phase-evidence-research-framing-19-d-dc5"
   },
-  "/docs/Development/Voice Over Generator-cd3": {
+  "/docs/Development/AI assistant-31e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-development-voice-over-generatora-9-f-a68"
+    "content": "content---docs-development-ai-assistant-09-b-4c4"
   },
   "/docs/intro-2a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-cf-4-846"
+    "content": "content---docs-introcf-4-459"
   },
   "/docs/Project plan-f4a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -126,9 +126,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-research-report-1st-research-phase-ab-testing-1-f-0-979"
   },
-  "/docs/Research Report/1st Research Phase/Competitive analysis-7f1": {
+  "/docs/Research Report/1st Research Phase/Comparison chart-360": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-report-1st-research-phase-competitive-analysis-5-ba-333"
+    "content": "content---docs-research-report-1st-research-phase-comparison-chartd-68-1c9"
   },
   "/docs/Research Report/1st Research Phase/Conclusion-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -182,13 +182,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-semester-reflection-company-meetings-465-d0e"
   },
+  "/docs/Semester Reflection/MidTerm-b39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-semester-reflection-mid-term-366-8e6"
+  },
   "/docs/Semester Reflection/Teacher Meetings-926": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-semester-reflection-teacher-meetingsbe-7-a6f"
   },
-  "/docs/Testing/Results-fd6": {
+  "/docs/Testing/Ai assistant results-09c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-testing-results-494-8be"
+    "content": "content---docs-testing-ai-assistant-resultsb-02-c43"
+  },
+  "/docs/Testing/Introduction-edf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testing-introductionedb-d6c"
+  },
+  "/docs/Testing/Voice over results-b5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testing-voice-over-resultsd-9-e-7f2"
   },
   "/-c09": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

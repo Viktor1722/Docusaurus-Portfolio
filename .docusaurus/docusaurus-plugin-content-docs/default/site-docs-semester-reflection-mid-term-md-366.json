@@ -1,0 +1,20 @@
+{
+  "id": "Semester Reflection/MidTerm",
+  "title": "MidTerm",
+  "description": "In week 10, I got the chance to showcase my university evaluators about my work so far in my internship, during an event called the MidTerm review. This involved giving a brief presentation and then answering questions.",
+  "source": "@site/docs/Semester Reflection/MidTerm.md",
+  "sourceDirName": "Semester Reflection",
+  "slug": "/Semester Reflection/MidTerm",
+  "permalink": "/docs/Semester Reflection/MidTerm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/MidTerm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Company meetings",
+    "permalink": "/docs/Semester Reflection/Company meetings"
+  }
+}

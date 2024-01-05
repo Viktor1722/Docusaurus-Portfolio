@@ -14,6 +14,20 @@ The objective of this project was to delve into research and identify innovative
 
 ## Approach 
 
+### Research Questions 
+
+1. What is the main reason Cape wants to implement such kind of Ai model into their tool?
+2. What would be the ideal functionality of features in the tool?
+3. What do marketers and designers expect from a design tool?
+
+4. What impact Template Designer is going to have on the industry?
+5. Are there similar product on the market?
+6. What are they strengths and weakness?
+7. What are the key considerations and challenges in integrating generated JSON templates into template designer
+software?
+8. What is the current architecture of the code and how will I be working in its structure
+
+
 My strategy involved leveraging the CMD research methods and the DOT framework, which are pivotal in providing insights into the research questions outlined in the project plan. Initially, I'll commence by completing a Research form filled with thoughtfully crafted questions. These questions are designed to prompt deep consideration from my side to consider various aspects, including potential challenges and critical points I might encounter during the research. This template was also instrumental in enhancing my understanding of the assignment's subject.
 
 Subsequently, I will develop personas to pinpoint the target audience. These personas are essential not only in comprehending who will use the tool and how to design the user interface effectively but also in gauging the potential impact of the Template Designer on the industry.

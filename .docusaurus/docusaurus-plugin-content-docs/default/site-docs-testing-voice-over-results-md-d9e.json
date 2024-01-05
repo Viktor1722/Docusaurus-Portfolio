@@ -1,0 +1,24 @@
+{
+  "id": "Testing/Voice over results",
+  "title": "Voice over results",
+  "description": "",
+  "source": "@site/docs/Testing/Voice over results.md",
+  "sourceDirName": "Testing",
+  "slug": "/Testing/Voice over results",
+  "permalink": "/docs/Testing/Voice over results",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Voice over results.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Testing/Introduction"
+  },
+  "next": {
+    "title": "Teacher Meetings",
+    "permalink": "/docs/Semester Reflection/Teacher Meetings"
+  }
+}

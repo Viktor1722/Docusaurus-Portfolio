@@ -38,7 +38,7 @@
         "items": [
           {
             "type": "category",
-            "label": "1st Research Phase",
+            "label": "1st Research Phase/Template generation",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -72,9 +72,9 @@
               },
               {
                 "type": "link",
-                "label": "Competitive analysis",
-                "href": "/docs/Research Report/1st Research Phase/Competitive analysis",
-                "docId": "Research Report/1st Research Phase/Competitive analysis",
+                "label": "Comparison chart",
+                "href": "/docs/Research Report/1st Research Phase/Comparison chart",
+                "docId": "Research Report/1st Research Phase/Comparison chart",
                 "unlisted": false
               },
               {
@@ -95,7 +95,7 @@
           },
           {
             "type": "category",
-            "label": "2nd Research Phase",
+            "label": "2nd Research Phase/Voice Over generation",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -253,9 +253,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Voice Over Generator",
-            "href": "/docs/Development/Voice Over Generator",
-            "docId": "Development/Voice Over Generator",
+            "label": "AI assistant",
+            "href": "/docs/Development/AI assistant",
+            "docId": "Development/AI assistant",
             "unlisted": false
           }
         ]
@@ -268,9 +268,23 @@
         "items": [
           {
             "type": "link",
-            "label": "Results",
-            "href": "/docs/Testing/Results",
-            "docId": "Testing/Results",
+            "label": "Ai assistant results",
+            "href": "/docs/Testing/Ai assistant results",
+            "docId": "Testing/Ai assistant results",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Testing/Introduction",
+            "docId": "Testing/Introduction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Voice over results",
+            "href": "/docs/Testing/Voice over results",
+            "docId": "Testing/Voice over results",
             "unlisted": false
           }
         ]
@@ -293,6 +307,13 @@
             "label": "Company meetings",
             "href": "/docs/Semester Reflection/Company meetings",
             "docId": "Semester Reflection/Company meetings",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "MidTerm",
+            "href": "/docs/Semester Reflection/MidTerm",
+            "docId": "Semester Reflection/MidTerm",
             "unlisted": false
           }
         ]
@@ -366,10 +387,10 @@
       "description": "After the new assignment was given to me I oppeted one more time to utalize the",
       "sidebar": "tutorialSidebar"
     },
-    "Development/Voice Over Generator": {
-      "id": "Development/Voice Over Generator",
-      "title": "Voice Over Generator",
-      "description": "",
+    "Development/AI assistant": {
+      "id": "Development/AI assistant",
+      "title": "AI assistant",
+      "description": "Problem / Opportunity",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
@@ -396,16 +417,16 @@
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
-    "Research Report/1st Research Phase/Competitive analysis": {
-      "id": "Research Report/1st Research Phase/Competitive analysis",
-      "title": "Competitive analysis",
+    "Research Report/1st Research Phase/Comparison chart": {
+      "id": "Research Report/1st Research Phase/Comparison chart",
+      "title": "Comparison chart",
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Research Report/1st Research Phase/Conclusion": {
       "id": "Research Report/1st Research Phase/Conclusion",
       "title": "Conclusion",
-      "description": "With two weeks dedicated to research, I quickly grasped the complex nature of the task at hand. Utilizing the CMD Research methods, the depth of the challenge became evident. Balancing the available time, my skillset, and the hardware capabilities during my internship, I realized that completing the task was beyond reach since Cape wanted this visual Ai model to be trained which required serious skill set and powerful pc. This realization led me to discuss the project's feasibility with my internship mentor. Upon presenting my findings and concerns, he understood my perspective. Our subsequent consultations with experienced developers from the company showed that the task was very optimistic indeed. The sheer magnitude of the assignment became clear to both of us, prompting a reconsideration of my assignment.",
+      "description": "The research proved extremely valuable, as it helped me understand the task assigned by Cape thanks to CMD research methods. By framing the research, I gained a deeper insight into the assignment's underlying concept and what was expected as the final deliverable. The customer journey map was particularly useful. It allowed me to view the template generator from the user's perspective, understanding their needs and experiences.",
       "sidebar": "tutorialSidebar"
     },
     "Research Report/1st Research Phase/Customer Journey": {
@@ -480,15 +501,33 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "Semester Reflection/MidTerm": {
+      "id": "Semester Reflection/MidTerm",
+      "title": "MidTerm",
+      "description": "In week 10, I got the chance to showcase my university evaluators about my work so far in my internship, during an event called the MidTerm review. This involved giving a brief presentation and then answering questions.",
+      "sidebar": "tutorialSidebar"
+    },
     "Semester Reflection/Teacher Meetings": {
       "id": "Semester Reflection/Teacher Meetings",
       "title": "Teacher Meetings",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Testing/Results": {
-      "id": "Testing/Results",
-      "title": "Results",
+    "Testing/Ai assistant results": {
+      "id": "Testing/Ai assistant results",
+      "title": "Ai assistant results",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Testing/Introduction": {
+      "id": "Testing/Introduction",
+      "title": "Introduction",
+      "description": "Goal",
+      "sidebar": "tutorialSidebar"
+    },
+    "Testing/Voice over results": {
+      "id": "Testing/Voice over results",
+      "title": "Voice over results",
       "description": "",
       "sidebar": "tutorialSidebar"
     }

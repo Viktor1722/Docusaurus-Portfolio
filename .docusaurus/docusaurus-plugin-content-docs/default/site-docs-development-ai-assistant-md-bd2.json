@@ -1,0 +1,24 @@
+{
+  "id": "Development/Ai assistant",
+  "title": "Ai assistant",
+  "description": "",
+  "source": "@site/docs/Development/Ai assistant.md",
+  "sourceDirName": "Development",
+  "slug": "/Development/Ai assistant",
+  "permalink": "/docs/Development/Ai assistant",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Development/Ai assistant.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AB Testing",
+    "permalink": "/docs/2nd Research Phase Evidence/AB Testing"
+  },
+  "next": {
+    "title": "Ai assistant results",
+    "permalink": "/docs/Testing/Ai assistant results"
+  }
+}

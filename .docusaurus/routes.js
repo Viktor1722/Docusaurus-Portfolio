@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '670'),
+    component: ComponentCreator('/docs', '5a2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c72'),
+        component: ComponentCreator('/docs', '1d0'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5d1'),
+            component: ComponentCreator('/docs', 'b01'),
             routes: [
               {
                 path: '/docs/',
@@ -127,8 +127,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Development/Voice Over Generator',
-                component: ComponentCreator('/docs/Development/Voice Over Generator', 'cd3'),
+                path: '/docs/Development/AI assistant',
+                component: ComponentCreator('/docs/Development/AI assistant', '31e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -151,8 +151,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Research Report/1st Research Phase/Competitive analysis',
-                component: ComponentCreator('/docs/Research Report/1st Research Phase/Competitive analysis', '7f1'),
+                path: '/docs/Research Report/1st Research Phase/Comparison chart',
+                component: ComponentCreator('/docs/Research Report/1st Research Phase/Comparison chart', '360'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -235,14 +235,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Semester Reflection/MidTerm',
+                component: ComponentCreator('/docs/Semester Reflection/MidTerm', 'b39'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Semester Reflection/Teacher Meetings',
                 component: ComponentCreator('/docs/Semester Reflection/Teacher Meetings', '926'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Testing/Results',
-                component: ComponentCreator('/docs/Testing/Results', 'fd6'),
+                path: '/docs/Testing/Ai assistant results',
+                component: ComponentCreator('/docs/Testing/Ai assistant results', '09c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Testing/Introduction',
+                component: ComponentCreator('/docs/Testing/Introduction', 'edf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Testing/Voice over results',
+                component: ComponentCreator('/docs/Testing/Voice over results', 'b5a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
