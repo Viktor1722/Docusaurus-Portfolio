@@ -115,9 +115,9 @@
               },
               {
                 "type": "link",
-                "label": "Customer Journey",
-                "href": "/docs/Research Report/2nd Research Phase/Customer Journey",
-                "docId": "Research Report/2nd Research Phase/Customer Journey",
+                "label": "Customer journey",
+                "href": "/docs/Research Report/2nd Research Phase/Customer journey",
+                "docId": "Research Report/2nd Research Phase/Customer journey",
                 "unlisted": false
               },
               {
@@ -129,9 +129,9 @@
               },
               {
                 "type": "link",
-                "label": "Competitive analysis",
-                "href": "/docs/Research Report/2nd Research Phase/Competitive analysis",
-                "docId": "Research Report/2nd Research Phase/Competitive analysis",
+                "label": "Comparison chart",
+                "href": "/docs/Research Report/2nd Research Phase/Comparison chart",
+                "docId": "Research Report/2nd Research Phase/Comparison chart",
                 "unlisted": false
               },
               {
@@ -181,9 +181,9 @@
           },
           {
             "type": "link",
-            "label": "Competitor analysis",
-            "href": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
-            "docId": "1st-Research-Phase-Evidence/Competitor analysis",
+            "label": "Comparison chart",
+            "href": "/docs/1st-Research-Phase-Evidence/Comparison chart",
+            "docId": "1st-Research-Phase-Evidence/Comparison chart",
             "unlisted": false
           },
           {
@@ -231,9 +231,9 @@
           },
           {
             "type": "link",
-            "label": "Competitor analysis",
-            "href": "/docs/2nd Research Phase Evidence/Competitor analysis",
-            "docId": "2nd Research Phase Evidence/Competitor analysis",
+            "label": "Comparison chart",
+            "href": "/docs/2nd Research Phase Evidence/Comparison chart",
+            "docId": "2nd Research Phase Evidence/Comparison chart",
             "unlisted": false
           },
           {
@@ -327,9 +327,9 @@
       "description": "Image Quality",
       "sidebar": "tutorialSidebar"
     },
-    "1st-Research-Phase-Evidence/Competitor analysis": {
-      "id": "1st-Research-Phase-Evidence/Competitor analysis",
-      "title": "Competitor analysis",
+    "1st-Research-Phase-Evidence/Comparison chart": {
+      "id": "1st-Research-Phase-Evidence/Comparison chart",
+      "title": "Comparison chart",
       "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for the purpose of my project. My ability to research this field of AI technology has greatly benefited from using Competitive analysis method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
       "sidebar": "tutorialSidebar"
     },
@@ -363,9 +363,9 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "2nd Research Phase Evidence/Competitor analysis": {
-      "id": "2nd Research Phase Evidence/Competitor analysis",
-      "title": "Competitor analysis",
+    "2nd Research Phase Evidence/Comparison chart": {
+      "id": "2nd Research Phase Evidence/Comparison chart",
+      "title": "Comparison chart",
       "description": "This research delves into the AI voiceover market, specifically analyzing key competitors providing text-to-speech services for advertising. It uncovers strengths, weaknesses, and areas for innovation among these platforms, benefiting my project.",
       "sidebar": "tutorialSidebar"
     },
@@ -396,7 +396,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, sharing code snippets, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
+      "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
       "sidebar": "tutorialSidebar"
     },
     "Project plan": {
@@ -459,15 +459,15 @@
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
-    "Research Report/2nd Research Phase/Competitive analysis": {
-      "id": "Research Report/2nd Research Phase/Competitive analysis",
-      "title": "Competitive analysis",
+    "Research Report/2nd Research Phase/Comparison chart": {
+      "id": "Research Report/2nd Research Phase/Comparison chart",
+      "title": "Comparison chart",
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
-    "Research Report/2nd Research Phase/Customer Journey": {
-      "id": "Research Report/2nd Research Phase/Customer Journey",
-      "title": "Customer Journey",
+    "Research Report/2nd Research Phase/Customer journey": {
+      "id": "Research Report/2nd Research Phase/Customer journey",
+      "title": "Customer journey",
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },

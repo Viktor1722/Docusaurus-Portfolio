@@ -16,8 +16,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "1st-Research-Phase-Evidence/Competitor analysis",
-              "path": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
+              "id": "1st-Research-Phase-Evidence/Comparison chart",
+              "path": "/docs/1st-Research-Phase-Evidence/Comparison chart",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,8 +46,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "2nd Research Phase Evidence/Competitor analysis",
-              "path": "/docs/2nd Research Phase Evidence/Competitor analysis",
+              "id": "2nd Research Phase Evidence/Comparison chart",
+              "path": "/docs/2nd Research Phase Evidence/Comparison chart",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -126,13 +126,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Research Report/2nd Research Phase/Competitive analysis",
-              "path": "/docs/Research Report/2nd Research Phase/Competitive analysis",
+              "id": "Research Report/2nd Research Phase/Comparison chart",
+              "path": "/docs/Research Report/2nd Research Phase/Comparison chart",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Research Report/2nd Research Phase/Customer Journey",
-              "path": "/docs/Research Report/2nd Research Phase/Customer Journey",
+              "id": "Research Report/2nd Research Phase/Customer journey",
+              "path": "/docs/Research Report/2nd Research Phase/Customer journey",
               "sidebar": "tutorialSidebar"
             },
             {

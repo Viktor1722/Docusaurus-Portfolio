@@ -13,6 +13,7 @@
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
+    "label": "2nd Research Phase/Voice Over generation",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5a2'),
+    component: ComponentCreator('/docs', '562'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1d0'),
+        component: ComponentCreator('/docs', '07f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b01'),
+            component: ComponentCreator('/docs', 'fe6'),
             routes: [
               {
                 path: '/docs/',
@@ -67,8 +67,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/1st-Research-Phase-Evidence/Competitor analysis',
-                component: ComponentCreator('/docs/1st-Research-Phase-Evidence/Competitor analysis', 'c07'),
+                path: '/docs/1st-Research-Phase-Evidence/Comparison chart',
+                component: ComponentCreator('/docs/1st-Research-Phase-Evidence/Comparison chart', '77b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -103,8 +103,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/2nd Research Phase Evidence/Competitor analysis',
-                component: ComponentCreator('/docs/2nd Research Phase Evidence/Competitor analysis', '044'),
+                path: '/docs/2nd Research Phase Evidence/Comparison chart',
+                component: ComponentCreator('/docs/2nd Research Phase Evidence/Comparison chart', '143'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -193,14 +193,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Research Report/2nd Research Phase/Competitive analysis',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Competitive analysis', 'fb5'),
+                path: '/docs/Research Report/2nd Research Phase/Comparison chart',
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Comparison chart', 'c0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Research Report/2nd Research Phase/Customer Journey',
-                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Customer Journey', '17b'),
+                path: '/docs/Research Report/2nd Research Phase/Customer journey',
+                component: ComponentCreator('/docs/Research Report/2nd Research Phase/Customer journey', '43a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

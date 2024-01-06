@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Introduction",
-  "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, sharing code snippets, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
+  "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
   "source": "@site/docs/1. intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

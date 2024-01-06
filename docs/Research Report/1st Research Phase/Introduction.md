@@ -26,7 +26,7 @@ The objective of this project was to delve into research and identify innovative
 7. What are the key considerations and challenges in integrating generated JSON templates into template designer
 software?
 8. What is the current architecture of the code and how will I be working in its structure
-
+##
 
 My strategy involved leveraging the CMD research methods and the DOT framework, which are pivotal in providing insights into the research questions outlined in the project plan. Initially, I'll commence by completing a Research form filled with thoughtfully crafted questions. These questions are designed to prompt deep consideration from my side to consider various aspects, including potential challenges and critical points I might encounter during the research. This template was also instrumental in enhancing my understanding of the assignment's subject.
 

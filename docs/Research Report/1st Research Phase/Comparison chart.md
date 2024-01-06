@@ -30,12 +30,7 @@ Market Research: Conduct thorough market research to identify competing products
 
 Feature Analysis: Examine the latest feature updates or enhancements introduced by these competitors, focusing on understanding how they are evolving to meet user demands and market trends.
 
-
-
-
 ## Comparison 
-
-
 
 1. ## Dall-E2
 
@@ -107,7 +102,7 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
      DeepArt. DeepArt. https://deepai.org/art
 
-## [Evidence ](/docs/1st-Research-Phase-Evidence/Competitor%20analysis.md)
+## [Evidence](/docs/1st-Research-Phase-Evidence/Comparison%20chart.md)
 
 ## Conclusion
 

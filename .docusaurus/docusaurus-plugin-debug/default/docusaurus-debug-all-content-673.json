@@ -35,8 +35,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Competitor analysis",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Comparison chart"
               },
               "next": {
                 "title": "Overview",
@@ -44,16 +44,16 @@
               }
             },
             {
-              "id": "1st-Research-Phase-Evidence/Competitor analysis",
-              "title": "Competitor analysis",
+              "id": "1st-Research-Phase-Evidence/Comparison chart",
+              "title": "Comparison chart",
               "description": "I have chosen this research approach to address the two sub-research questions and find an AI model that would work for the purpose of my project. My ability to research this field of AI technology has greatly benefited from using Competitive analysis method. I was able to get more knowledge about various tools and put them to immediate use in the setting. This experience has expanded my perspective even further, and I now know practical information about how to use these kinds of technologies. Above all, it has made it easier for me to understand what makes a Text-to-Image (TTI) AI model effective. It also gave me a strong basis for choosing which two AI models to use in the A/B testing.",
-              "source": "@site/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
+              "source": "@site/docs/1st-Research-Phase-Evidence/Comparison chart.md",
               "sourceDirName": "1st-Research-Phase-Evidence",
-              "slug": "/1st-Research-Phase-Evidence/Competitor analysis",
-              "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis",
+              "slug": "/1st-Research-Phase-Evidence/Comparison chart",
+              "permalink": "/docs/1st-Research-Phase-Evidence/Comparison chart",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Competitor analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1st-Research-Phase-Evidence/Comparison chart.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -146,8 +146,8 @@
                 "permalink": "/docs/1st-Research-Phase-Evidence/Customer Journey"
               },
               "next": {
-                "title": "Competitor analysis",
-                "permalink": "/docs/1st-Research-Phase-Evidence/Competitor analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/1st-Research-Phase-Evidence/Comparison chart"
               }
             },
             {
@@ -193,8 +193,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Competitor analysis",
-                "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/2nd Research Phase Evidence/Comparison chart"
               },
               "next": {
                 "title": "AI assistant",
@@ -202,16 +202,16 @@
               }
             },
             {
-              "id": "2nd Research Phase Evidence/Competitor analysis",
-              "title": "Competitor analysis",
+              "id": "2nd Research Phase Evidence/Comparison chart",
+              "title": "Comparison chart",
               "description": "This research delves into the AI voiceover market, specifically analyzing key competitors providing text-to-speech services for advertising. It uncovers strengths, weaknesses, and areas for innovation among these platforms, benefiting my project.",
-              "source": "@site/docs/2nd Research Phase Evidence/Competitor analysis.md",
+              "source": "@site/docs/2nd Research Phase Evidence/Comparison chart.md",
               "sourceDirName": "2nd Research Phase Evidence",
-              "slug": "/2nd Research Phase Evidence/Competitor analysis",
-              "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis",
+              "slug": "/2nd Research Phase Evidence/Comparison chart",
+              "permalink": "/docs/2nd Research Phase Evidence/Comparison chart",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Competitor analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2nd Research Phase Evidence/Comparison chart.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -278,8 +278,8 @@
                 "permalink": "/docs/2nd Research Phase Evidence/Customer Journey"
               },
               "next": {
-                "title": "Competitor analysis",
-                "permalink": "/docs/2nd Research Phase Evidence/Competitor analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/2nd Research Phase Evidence/Comparison chart"
               }
             },
             {
@@ -336,7 +336,7 @@
             {
               "id": "intro",
               "title": "Introduction",
-              "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, sharing code snippets, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
+              "description": "Welcome to my portfolio! Within this platform, I aim to showcase the evidence of my efforts during my internship, including my various projects, research endeavors, and testing initiatives. As part of my commitment to transparency and thorough documentation, I plan to make regular updates on a weekly basis. These updates will encompass a wealth of information, offering insights, and providing detailed records of my experiences within the company. My ultimate goal is to provide you with comprehensive and accurate documentation, providing a genuine understanding of the contributions I have made during my internship.",
               "source": "@site/docs/1. intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -619,8 +619,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Competitive analysis",
-                "permalink": "/docs/Research Report/2nd Research Phase/Competitive analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/Research Report/2nd Research Phase/Comparison chart"
               },
               "next": {
                 "title": "Reflection",
@@ -628,16 +628,16 @@
               }
             },
             {
-              "id": "Research Report/2nd Research Phase/Competitive analysis",
-              "title": "Competitive analysis",
+              "id": "Research Report/2nd Research Phase/Comparison chart",
+              "title": "Comparison chart",
               "description": "Introduction",
-              "source": "@site/docs/Research Report/2nd Research Phase/Competitive analysis.md",
+              "source": "@site/docs/Research Report/2nd Research Phase/Comparison chart.md",
               "sourceDirName": "Research Report/2nd Research Phase",
-              "slug": "/Research Report/2nd Research Phase/Competitive analysis",
-              "permalink": "/docs/Research Report/2nd Research Phase/Competitive analysis",
+              "slug": "/Research Report/2nd Research Phase/Comparison chart",
+              "permalink": "/docs/Research Report/2nd Research Phase/Comparison chart",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/Competitive analysis.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/Comparison chart.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -655,16 +655,16 @@
               }
             },
             {
-              "id": "Research Report/2nd Research Phase/Customer Journey",
-              "title": "Customer Journey",
+              "id": "Research Report/2nd Research Phase/Customer journey",
+              "title": "Customer journey",
               "description": "Introduction",
-              "source": "@site/docs/Research Report/2nd Research Phase/Customer Journey.md",
+              "source": "@site/docs/Research Report/2nd Research Phase/Customer journey.md",
               "sourceDirName": "Research Report/2nd Research Phase",
-              "slug": "/Research Report/2nd Research Phase/Customer Journey",
-              "permalink": "/docs/Research Report/2nd Research Phase/Customer Journey",
+              "slug": "/Research Report/2nd Research Phase/Customer journey",
+              "permalink": "/docs/Research Report/2nd Research Phase/Customer journey",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/Customer Journey.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Research Report/2nd Research Phase/Customer journey.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -727,12 +727,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Customer Journey",
-                "permalink": "/docs/Research Report/2nd Research Phase/Customer Journey"
+                "title": "Customer journey",
+                "permalink": "/docs/Research Report/2nd Research Phase/Customer journey"
               },
               "next": {
-                "title": "Competitive analysis",
-                "permalink": "/docs/Research Report/2nd Research Phase/Competitive analysis"
+                "title": "Comparison chart",
+                "permalink": "/docs/Research Report/2nd Research Phase/Comparison chart"
               }
             },
             {
@@ -758,8 +758,8 @@
                 "permalink": "/docs/Research Report/2nd Research Phase/Introduction"
               },
               "next": {
-                "title": "Customer Journey",
-                "permalink": "/docs/Research Report/2nd Research Phase/Customer Journey"
+                "title": "Customer journey",
+                "permalink": "/docs/Research Report/2nd Research Phase/Customer journey"
               }
             },
             {
@@ -1003,7 +1003,7 @@
                       },
                       {
                         "type": "doc",
-                        "id": "Research Report/2nd Research Phase/Customer Journey"
+                        "id": "Research Report/2nd Research Phase/Customer journey"
                       },
                       {
                         "type": "doc",
@@ -1011,7 +1011,7 @@
                       },
                       {
                         "type": "doc",
-                        "id": "Research Report/2nd Research Phase/Competitive analysis"
+                        "id": "Research Report/2nd Research Phase/Comparison chart"
                       },
                       {
                         "type": "doc",
@@ -1045,7 +1045,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "1st-Research-Phase-Evidence/Competitor analysis"
+                    "id": "1st-Research-Phase-Evidence/Comparison chart"
                   },
                   {
                     "type": "doc",
@@ -1077,7 +1077,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "2nd Research Phase Evidence/Competitor analysis"
+                    "id": "2nd Research Phase Evidence/Comparison chart"
                   },
                   {
                     "type": "doc",
