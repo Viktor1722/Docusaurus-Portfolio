@@ -1,0 +1,20 @@
+{
+  "id": "Semester Reflection/Personal Reflection",
+  "title": "Personal Reflection",
+  "description": "Throughout my internship at Cape, a SaaS company, the amount of knowledge and experience I've gained has been immense. I'm deeply grateful for the opportunity to be part of their development team. This experience has been crucial in my journey to becoming a skilled developer, particularly in expanding my coding skills, which is a fundamental aspect of my career development.",
+  "source": "@site/docs/Semester Reflection/Personal Reflection.md",
+  "sourceDirName": "Semester Reflection",
+  "slug": "/Semester Reflection/Personal Reflection",
+  "permalink": "/docs/Semester Reflection/Personal Reflection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/Personal Reflection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MidTerm",
+    "permalink": "/docs/Semester Reflection/MidTerm"
+  }
+}

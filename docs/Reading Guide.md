@@ -36,4 +36,4 @@ slug: /
 7. [Development](#dw)
     1. [Ai assistant](./Development/Ai%20assistant.md)
 7. [Testing](#dw) 
-8. [Semester reflection](./Semester%20Reflection/Company%20meetings.md)
+8. [Semester reflection](./Semester%20Reflection/MidTerm.md)

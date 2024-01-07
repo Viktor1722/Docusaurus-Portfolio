@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '562'),
+    component: ComponentCreator('/docs', 'b35'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '07f'),
+        component: ComponentCreator('/docs', '235'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fe6'),
+            component: ComponentCreator('/docs', '009'),
             routes: [
               {
                 path: '/docs/',
@@ -229,20 +229,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Semester Reflection/Company meetings',
-                component: ComponentCreator('/docs/Semester Reflection/Company meetings', 'dfd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Semester Reflection/MidTerm',
                 component: ComponentCreator('/docs/Semester Reflection/MidTerm', 'b39'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Semester Reflection/Teacher Meetings',
-                component: ComponentCreator('/docs/Semester Reflection/Teacher Meetings', '926'),
+                path: '/docs/Semester Reflection/Personal Reflection',
+                component: ComponentCreator('/docs/Semester Reflection/Personal Reflection', 'f66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

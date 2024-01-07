@@ -156,18 +156,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Semester Reflection/Company meetings",
-              "path": "/docs/Semester Reflection/Company meetings",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Semester Reflection/MidTerm",
               "path": "/docs/Semester Reflection/MidTerm",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Semester Reflection/Teacher Meetings",
-              "path": "/docs/Semester Reflection/Teacher Meetings",
+              "id": "Semester Reflection/Personal Reflection",
+              "path": "/docs/Semester Reflection/Personal Reflection",
               "sidebar": "tutorialSidebar"
             },
             {

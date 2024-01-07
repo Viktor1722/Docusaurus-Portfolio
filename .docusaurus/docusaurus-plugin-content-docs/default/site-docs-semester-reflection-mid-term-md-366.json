@@ -14,7 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Company meetings",
-    "permalink": "/docs/Semester Reflection/Company meetings"
+    "title": "Voice over results",
+    "permalink": "/docs/Testing/Voice over results"
+  },
+  "next": {
+    "title": "Personal Reflection",
+    "permalink": "/docs/Semester Reflection/Personal Reflection"
   }
 }

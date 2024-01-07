@@ -297,23 +297,16 @@
         "items": [
           {
             "type": "link",
-            "label": "Teacher Meetings",
-            "href": "/docs/Semester Reflection/Teacher Meetings",
-            "docId": "Semester Reflection/Teacher Meetings",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Company meetings",
-            "href": "/docs/Semester Reflection/Company meetings",
-            "docId": "Semester Reflection/Company meetings",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "MidTerm",
             "href": "/docs/Semester Reflection/MidTerm",
             "docId": "Semester Reflection/MidTerm",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Personal Reflection",
+            "href": "/docs/Semester Reflection/Personal Reflection",
+            "docId": "Semester Reflection/Personal Reflection",
             "unlisted": false
           }
         ]
@@ -495,22 +488,16 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Semester Reflection/Company meetings": {
-      "id": "Semester Reflection/Company meetings",
-      "title": "Company meetings",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "Semester Reflection/MidTerm": {
       "id": "Semester Reflection/MidTerm",
       "title": "MidTerm",
       "description": "In week 10, I got the chance to showcase my university evaluators about my work so far in my internship, during an event called the MidTerm review. This involved giving a brief presentation and then answering questions.",
       "sidebar": "tutorialSidebar"
     },
-    "Semester Reflection/Teacher Meetings": {
-      "id": "Semester Reflection/Teacher Meetings",
-      "title": "Teacher Meetings",
-      "description": "",
+    "Semester Reflection/Personal Reflection": {
+      "id": "Semester Reflection/Personal Reflection",
+      "title": "Personal Reflection",
+      "description": "Throughout my internship at Cape, a SaaS company, the amount of knowledge and experience I've gained has been immense. I'm deeply grateful for the opportunity to be part of their development team. This experience has been crucial in my journey to becoming a skilled developer, particularly in expanding my coding skills, which is a fundamental aspect of my career development.",
       "sidebar": "tutorialSidebar"
     },
     "Testing/Ai assistant results": {

@@ -787,30 +787,6 @@
               }
             },
             {
-              "id": "Semester Reflection/Company meetings",
-              "title": "Company meetings",
-              "description": "",
-              "source": "@site/docs/Semester Reflection/Company meetings.md",
-              "sourceDirName": "Semester Reflection",
-              "slug": "/Semester Reflection/Company meetings",
-              "permalink": "/docs/Semester Reflection/Company meetings",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/Company meetings.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Teacher Meetings",
-                "permalink": "/docs/Semester Reflection/Teacher Meetings"
-              },
-              "next": {
-                "title": "MidTerm",
-                "permalink": "/docs/Semester Reflection/MidTerm"
-              }
-            },
-            {
               "id": "Semester Reflection/MidTerm",
               "title": "MidTerm",
               "description": "In week 10, I got the chance to showcase my university evaluators about my work so far in my internship, during an event called the MidTerm review. This involved giving a brief presentation and then answering questions.",
@@ -826,35 +802,32 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Company meetings",
-                "permalink": "/docs/Semester Reflection/Company meetings"
-              }
-            },
-            {
-              "id": "Semester Reflection/Teacher Meetings",
-              "title": "Teacher Meetings",
-              "description": "",
-              "source": "@site/docs/Semester Reflection/Teacher Meetings.md",
-              "sourceDirName": "Semester Reflection",
-              "slug": "/Semester Reflection/Teacher Meetings",
-              "permalink": "/docs/Semester Reflection/Teacher Meetings",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/Teacher Meetings.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
                 "title": "Voice over results",
                 "permalink": "/docs/Testing/Voice over results"
               },
               "next": {
-                "title": "Company meetings",
-                "permalink": "/docs/Semester Reflection/Company meetings"
+                "title": "Personal Reflection",
+                "permalink": "/docs/Semester Reflection/Personal Reflection"
+              }
+            },
+            {
+              "id": "Semester Reflection/Personal Reflection",
+              "title": "Personal Reflection",
+              "description": "Throughout my internship at Cape, a SaaS company, the amount of knowledge and experience I've gained has been immense. I'm deeply grateful for the opportunity to be part of their development team. This experience has been crucial in my journey to becoming a skilled developer, particularly in expanding my coding skills, which is a fundamental aspect of my career development.",
+              "source": "@site/docs/Semester Reflection/Personal Reflection.md",
+              "sourceDirName": "Semester Reflection",
+              "slug": "/Semester Reflection/Personal Reflection",
+              "permalink": "/docs/Semester Reflection/Personal Reflection",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Semester Reflection/Personal Reflection.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MidTerm",
+                "permalink": "/docs/Semester Reflection/MidTerm"
               }
             },
             {
@@ -925,8 +898,8 @@
                 "permalink": "/docs/Testing/Introduction"
               },
               "next": {
-                "title": "Teacher Meetings",
-                "permalink": "/docs/Semester Reflection/Teacher Meetings"
+                "title": "MidTerm",
+                "permalink": "/docs/Semester Reflection/MidTerm"
               }
             }
           ],
@@ -1125,15 +1098,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Semester Reflection/Teacher Meetings"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Semester Reflection/Company meetings"
-                  },
-                  {
-                    "type": "doc",
                     "id": "Semester Reflection/MidTerm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Semester Reflection/Personal Reflection"
                   }
                 ]
               }
