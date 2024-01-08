@@ -102,7 +102,7 @@ Feature Analysis: Examine the latest feature updates or enhancements introduced 
 
      DeepArt. DeepArt. https://deepai.org/art
 
-## [Evidence](/docs/1st-Research-Phase-Evidence/Comparison%20chart.md)
+
 
 ## Conclusion
 

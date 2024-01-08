@@ -268,23 +268,16 @@
         "items": [
           {
             "type": "link",
-            "label": "Ai assistant results",
-            "href": "/docs/Testing/Ai assistant results",
-            "docId": "Testing/Ai assistant results",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/Testing/Introduction",
-            "docId": "Testing/Introduction",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Voice over results",
             "href": "/docs/Testing/Voice over results",
             "docId": "Testing/Voice over results",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Ai assistant results",
+            "href": "/docs/Testing/Ai assistant results",
+            "docId": "Testing/Ai assistant results",
             "unlisted": false
           }
         ]
@@ -506,16 +499,10 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Testing/Introduction": {
-      "id": "Testing/Introduction",
-      "title": "Introduction",
-      "description": "Goal",
-      "sidebar": "tutorialSidebar"
-    },
     "Testing/Voice over results": {
       "id": "Testing/Voice over results",
       "title": "Voice over results",
-      "description": "",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     }
   }

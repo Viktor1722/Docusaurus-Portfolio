@@ -36,4 +36,8 @@ slug: /
 7. [Development](#dw)
     1. [Ai assistant](./Development/Ai%20assistant.md)
 7. [Testing](#dw) 
+    1. [Voice-over generator](./Testing/Voice%20over%20results.md)
+    2. [Ai assistant](./Testing/Ai%20assistant%20results.md)
 8. [Semester reflection](./Semester%20Reflection/MidTerm.md)
+    1. [MidTerm Review](./Semester%20Reflection/MidTerm.md)
+    2. [Personal Reflection](./Semester%20Reflection/Personal%20Reflection.md)

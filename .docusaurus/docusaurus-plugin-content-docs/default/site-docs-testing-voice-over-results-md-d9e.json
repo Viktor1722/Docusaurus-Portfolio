@@ -1,7 +1,7 @@
 {
   "id": "Testing/Voice over results",
   "title": "Voice over results",
-  "description": "",
+  "description": "Introduction",
   "source": "@site/docs/Testing/Voice over results.md",
   "sourceDirName": "Testing",
   "slug": "/Testing/Voice over results",
@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Voice over results.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/Testing/Introduction"
+    "title": "AI assistant",
+    "permalink": "/docs/Development/AI assistant"
   },
   "next": {
-    "title": "MidTerm",
-    "permalink": "/docs/Semester Reflection/MidTerm"
+    "title": "Ai assistant results",
+    "permalink": "/docs/Testing/Ai assistant results"
   }
 }

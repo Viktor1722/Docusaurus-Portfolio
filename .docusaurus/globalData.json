@@ -171,11 +171,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Testing/Introduction",
-              "path": "/docs/Testing/Introduction",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Testing/Voice over results",
               "path": "/docs/Testing/Voice over results",
               "sidebar": "tutorialSidebar"

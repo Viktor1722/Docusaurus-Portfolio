@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b35'),
+    component: ComponentCreator('/docs', '353'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '235'),
+        component: ComponentCreator('/docs', 'b56'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '009'),
+            component: ComponentCreator('/docs', 'e0f'),
             routes: [
               {
                 path: '/docs/',
@@ -243,12 +243,6 @@ export default [
               {
                 path: '/docs/Testing/Ai assistant results',
                 component: ComponentCreator('/docs/Testing/Ai assistant results', '09c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Testing/Introduction',
-                component: ComponentCreator('/docs/Testing/Introduction', 'edf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -9,7 +9,6 @@ This open communication was incredibly beneficial, as it made me comfortable eno
 
 This experience has not only perfected my technical abilities but also given me a comprehensive view of the industry. Understanding the objectives behind SaaS companies and the intricacies involved in developing real products has been enlightening. This internship has been a significant milestone in my journey as a developer, providing me with invaluable skills, knowledge, and insights that will undoubtedly shape my professional future.
 
-// Back-end servers and HTTP req
 ## Learning outcomes 
 
 ### Professional duties 
@@ -55,9 +54,9 @@ These efforts were recognized and appreciated, especially during my weekly meeti
 
 During my internship, I was fortunate to work on projects that significantly broadened my skills in coding, problem-solving, management, and communication. A highlight of this experience was the development of the Voice-over generator and the AI assistant, which allowed me to engage with React.js and TypeScript.js. As someone aspiring to be a front-end developer, working with these frameworks was not only exciting but also incredibly beneficial for my professional growth.
 
-Both projects involved complex functionalities, presenting me with the chance to delve into some of the more advanced features of these frameworks. This exposure was invaluable in deepening my understanding and expertise. Moreover, my role extended beyond just front-end development. I was also involved in integrating APIs for AI models. At the onset of each project, I was responsible for creating my own server to manage the HTTP requests to the AI model's servers. This task was particularly challenging due to the busy schedules of the back-end team, leaving me to tackle it independently.
+Both projects involved complex functionalities, presenting me with the chance to delve into some of the more advanced features of these frameworks. This exposure was invaluable in deepening my understanding and expertise. Moreover, my role extended beyond just front-end development. I was also involved in integrating APIs of AI models. At the beginning of each project, I was responsible for creating my own server to manage the HTTP requests to the AI model's servers. This task was particularly challenging due to the busy schedules of the back-end team, leaving me to tackle it independently which was another chance to learn new things.
 
-This responsibility was a crucial learning opportunity. It allowed me to gain practical experience in working with APIs, a skill essential for any software engineer. By navigating these challenges, I not only enhanced my technical abilities but also developed a deeper appreciation for the intricacies of software development, from front-end nuances to back-end complexities. This internship was a transformative journey, equipping me with a well-rounded skill set and a clearer vision for my career path in software engineering.
+This responsibility was a crucial learning opportunity. It allowed me to gain practical experience in working with APIs and front-end frameworks, a skill essential for any software engineer. By navigating these challenges, I not only enhanced my technical abilities but also developed a deeper appreciation for the intricacies of software development, from front-end nuances to back-end complexities. This internship was a transformative journey, equipping me with a well-rounded skill set and a clearer vision for my career path in software engineering.
 
 
 ### Targeted Interactions
@@ -70,16 +69,14 @@ This exposure to a diverse pool of knowledge within the company not only aided i
 
 ## Summary 
 
-During my internship at Cape, a SaaS company, I gained a lot of knowledge and experience. I worked as part of their development team and improved my coding skills, which are important for my career. I learned to use React.js and TypeScript.js, which are tools for front-end developers like me.
+During my internship at Cape, I gained a lot of knowledge and experience. I worked as part of their development team and improved my coding skills, which are important for my career. I learned to use React.js and TypeScript.js, which are tools for front-end developers like me.
 
 At Cape, the work environment was supportive and encouraging. I also attended team-building events which helped me communicate better and understand the company culture. This was helpful for working in a team and learning from others.
 
 I did a lot of research and worked on three different products. This taught me how to understand and plan projects, especially ones with many details like the AI assistant project. Communication was very important for this, especially when working on special projects like the Voice over generator.
 
-My internship was not just about learning technical skills. I also got better at solving problems, thinking analytically, and working with others. I applied my skills in real projects, which was a great way to learn and show what I can do.
+My internship was not just about learning technical skills. I also got better at solving problems, thinking analytically, and working in the team environment. I applied my skills in real projects, which was a great way to learn and show what I can do.
 
-One of my main tasks was choosing the right AI model for the tools we were making. I had to think about what the users needed and what was best for the company. This helped me understand more about how to make good products.
-
-I faced some challenges, like understanding how to use certain tools and communicating better with my mentor and team. But I learned from these experiences and improved my skills.
+One of my main tasks was choosing the right AI model for the tools we were making. I had to think about what the users needed and what was best for the company. This helped me understand more about how to make good products. I faced some challenges, like understanding how to use certain tools and communicating better with my mentor and team.
 
 In summary, my internship at Cape was a great experience. I improved my coding, problem-solving, and communication skills. I learned a lot about working in a team, making good products, and the software industry. This experience will help me a lot in my future career.

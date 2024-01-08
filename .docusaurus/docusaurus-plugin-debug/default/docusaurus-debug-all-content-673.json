@@ -329,8 +329,8 @@
                 "permalink": "/docs/2nd Research Phase Evidence/AB Testing"
               },
               "next": {
-                "title": "Ai assistant results",
-                "permalink": "/docs/Testing/Ai assistant results"
+                "title": "Voice over results",
+                "permalink": "/docs/Testing/Voice over results"
               }
             },
             {
@@ -802,8 +802,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Voice over results",
-                "permalink": "/docs/Testing/Voice over results"
+                "title": "Ai assistant results",
+                "permalink": "/docs/Testing/Ai assistant results"
               },
               "next": {
                 "title": "Personal Reflection",
@@ -846,42 +846,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "AI assistant",
-                "permalink": "/docs/Development/AI assistant"
-              },
-              "next": {
-                "title": "Introduction",
-                "permalink": "/docs/Testing/Introduction"
-              }
-            },
-            {
-              "id": "Testing/Introduction",
-              "title": "Introduction",
-              "description": "Goal",
-              "source": "@site/docs/Testing/Introduction.md",
-              "sourceDirName": "Testing",
-              "slug": "/Testing/Introduction",
-              "permalink": "/docs/Testing/Introduction",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Introduction.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Ai assistant results",
-                "permalink": "/docs/Testing/Ai assistant results"
-              },
-              "next": {
                 "title": "Voice over results",
                 "permalink": "/docs/Testing/Voice over results"
+              },
+              "next": {
+                "title": "MidTerm",
+                "permalink": "/docs/Semester Reflection/MidTerm"
               }
             },
             {
               "id": "Testing/Voice over results",
               "title": "Voice over results",
-              "description": "",
+              "description": "Introduction",
               "source": "@site/docs/Testing/Voice over results.md",
               "sourceDirName": "Testing",
               "slug": "/Testing/Voice over results",
@@ -891,15 +867,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Testing/Voice over results.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/Testing/Introduction"
+                "title": "AI assistant",
+                "permalink": "/docs/Development/AI assistant"
               },
               "next": {
-                "title": "MidTerm",
-                "permalink": "/docs/Semester Reflection/MidTerm"
+                "title": "Ai assistant results",
+                "permalink": "/docs/Testing/Ai assistant results"
               }
             }
           ],
@@ -1078,15 +1057,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Testing/Ai assistant results"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Testing/Introduction"
-                  },
-                  {
-                    "type": "doc",
                     "id": "Testing/Voice over results"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Testing/Ai assistant results"
                   }
                 ]
               },
