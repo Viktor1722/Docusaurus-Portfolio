@@ -11,7 +11,8 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "pdf": "npx docs-to-pdf docusaurus --initialDocURLs=\"http://localhost:3000/\" --contentSelector=\"article\" --paginationSelector=\"a.pagination-nav__link.pagination-nav__link--next\" --outputPDFFilename=\"Portfolio.pdf\" --coverImage=\"https://www.bycape.io/logo.svg\" --coverTitle=\"Internship Project\" --coverSub=\"By Viktor Velizarov\" && xdg-open Portfolio.pdf"
   },
   "dependencies": {
     "@docusaurus/core": "3.0.1",

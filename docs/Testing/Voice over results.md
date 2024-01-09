@@ -45,11 +45,24 @@ My first action was to add a headline to the feature, providing a clear and dist
 
 ![Ui feedback](../img/UiFeedback.svg)
 
-Moving on to the feedback of the voices menu i fixed the placeholder placing and the size of the play button and the moved it a bit away from the rest of the stuff this was also the part where i messed up the component structure by not using the component library Material UI i was not using the grid system properly and that is why the position of the placeholders and the information of the voices was misaligned with the rest of the content of the menu and also added small lines to the top and bottom in order to show some structure, order and alignment. 
+In response to the feedback on the voices menu, I took several corrective steps to improve its layout and functionality. My first task was to reposition the placeholders and adjust the size of the play button, moving it slightly away from other elements for better clarity and ease of use.
+During this process, I encountered a challenge related to the component structure. I realized that I had not been effectively utilizing the Material UI component library, specifically its grid system. This had led to the misalignment of the placeholders and the voice information with the rest of the menu’s content. Recognizing this error was a valuable learning experience, highlighting the importance of proper utilization of UI frameworks and libraries.
+To address this issue, I revised the layout using the grid system correctly, ensuring that all elements were aligned and presented cohesively. In addition to these functional improvements, I also added small lines at the top and bottom of the menu. These lines were more than decorative elements; they were strategically placed to create a sense of structure, order, and visual alignment within the menu.
+These refinements were crucial in enhancing the overall user experience. By adjusting the interface layout and employing design principles effectively, I aimed to create a more intuitive and visually appealing menu. This task underscored the significance of attention to detail and the proper application of design tools in creating a user-friendly and aesthetically pleasing interface.
+
+![Ui feedback 2](../img/voiceMenu.svg)
 
 These insights were invaluable in fine-tuning the tool. Addressing these points not only improved the UI but also ensured that the feature adhered to Cape's standards and user expectations. This iterative process of testing, receiving feedback, and making necessary adjustments was key to refining the tool for optimal performance and user satisfaction.
-
 ## Feedback from the users 
+Once the feedback from Cape’s designers and my mentor was thoroughly reviewed and incorporated, we moved to the next crucial phase: user testing. We provided access to a group of users selected to test the feature. Gathering feedback from all participants took some time, but the overall response was extremely positive. They were particularly impressed by the quick generation speed of the voice-overs and showed genuine enthusiasm for this aspect.
+The participants noted that the design was intuitive and seamlessly integrated with the rest of the platform, enhancing the coherence of the user interface. They appreciated the self-explanatory nature of the feature, which contributed to a positive user experience. This feedback was encouraging as it affirmed that the design choices made were resonating well with the end-users.
+However, there was a constructive suggestion regarding the voice settings. The users felt that the customization options for the voice style could be simplified. Instead of allowing users to tweak the voice settings themselves, they preferred more straightforward, predefined settings. This preference stemmed from a desire to save time and avoid the hassle of adjusting settings for different scenarios. This feedback was particularly insightful, highlighting a user preference for efficiency and simplicity.
+Taking this feedback into account, it became clear that while customization is valuable, ease of use and quick adaptability are equally important to the users. This understanding would guide further refinements of the feature, ensuring that it not only meets technical and aesthetic standards but also aligns with user preferences for simplicity and efficiency. This phase of user testing was instrumental in providing real-world insights, helping to fine-tune the feature to better meet the needs of Cape’s user base.
 
+## Feedback implementation 
+
+After the feedback for the group of users it was time to make the necessary changes in order to satisfy them. Me and my mentor had a quick discussion about how we should change the design and we choose a simple dropdown menu full of voice style options which was simple yet informative enough. 
+
+![Voice settings](../img/voiceSettings.svg)
 
 ## Conclusion

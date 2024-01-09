@@ -496,7 +496,7 @@
     "Testing/Ai assistant results": {
       "id": "Testing/Ai assistant results",
       "title": "Ai assistant results",
-      "description": "",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Testing/Voice over results": {
